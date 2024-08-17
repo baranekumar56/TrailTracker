@@ -1,0 +1,1047 @@
+[
+    {
+        "centerId": "6094",
+        "type": "DC",
+        "address": "5801 SW Regional Airport Blvd",
+        "city": "Bentonville",
+        "state": "Arizona",
+        "location": {
+            "latitude": 32.553325,
+            "longitude": -114.510731
+        }
+    },
+    {
+        "centerId": "6018",
+        "type": "DC",
+        "address": "405 Booth Rd/2103 S Main St",
+        "city": "Searcy",
+        "state": "Arizona",
+        "location": {
+            "latitude": 32.553325,
+            "longitude": -114.510731
+        }
+    },
+    {
+        "centerId": "6036",
+        "type": "DC",
+        "address": "South, 8660 Us Hwy 79",
+        "city": "Palestine",
+        "state": "Texas",
+        "location": {
+            "latitude": 31.694083,
+            "longitude": -95.728689
+        }
+    },
+    {
+        "centerId": "6006",
+        "type": "DC",
+        "address": "2200 7th Ave SW",
+        "city": "Cullman",
+        "state": "Alabama",
+        "location": {
+            "latitude": 34.131064,
+            "longitude": -86.851233
+        }
+    },
+    {
+        "centerId": "6009",
+        "type": "DC",
+        "address": "1100 N Iris St",
+        "city": "Mount Pleasant",
+        "state": "Iowa",
+        "location": {
+            "latitude": 40.9729092,
+            "longitude": -91.5255073
+        }
+    },
+    {
+        "centerId": "6010",
+        "type": "DC",
+        "address": "1401 W Baker Hwy",
+        "city": "Douglas",
+        "state": "Georgia",
+        "location": {
+            "latitude": 31.5004014,
+            "longitude": -82.8684389
+        }
+    },
+    {
+        "centerId": "6011",
+        "type": "DC",
+        "address": "2200 Manufacturers Blvd",
+        "city": "Brookhaven",
+        "state": "Mississippi",
+        "location": {
+            "latitude": 31.60013,
+            "longitude": -90.42346
+        }
+    },
+    {
+        "centerId": "6012",
+        "type": "DC",
+        "address": "3100 I-27",
+        "city": "Plainview",
+        "state": "Texas",
+        "location": {
+            "latitude": 34.1980096,
+            "longitude": -101.7489822
+        }
+    },
+    {
+        "centerId": "6014",
+        "type": "DC",
+        "address": "1050 Vern Cora Rd",
+        "city": "Laurens",
+        "state": "South Carolina",
+        "location": {
+            "latitude": 34.5485595,
+            "longitude": -81.9979726
+        }
+    },
+    {
+        "centerId": "6016",
+        "type": "DC",
+        "address": "3900 N Interstate 35 Frontage Rd",
+        "city": "New Braunfels",
+        "state": "Texas",
+        "location": {
+            "latitude": 29.694703,
+            "longitude": -98.116089
+        }
+    },
+    {
+        "centerId": "6017",
+        "type": "DC",
+        "address": "2100 E Tipton St",
+        "city": "Seymour",
+        "state": "Indiana",
+        "location": {
+            "latitude": 38.955132,
+            "longitude": -85.848789
+        }
+    },
+    {
+        "centerId": "6019",
+        "type": "DC",
+        "address": "7500 E Crossroads Blvd",
+        "city": "Loveland",
+        "state": "Colorado",
+        "location": {
+            "latitude": 40.433838,
+            "longitude": -104.967542
+        }
+    },
+    {
+        "centerId": "6022",
+        "type": "DC",
+        "address": "333 S 10th St",
+        "city": "Greencastle",
+        "state": "Indiana",
+        "location": {
+            "latitude": 39.6402534,
+            "longitude": -86.8317867
+        }
+    },
+    {
+        "centerId": "6020",
+        "type": "DC",
+        "address": "5100 Kettering Rd",
+        "city": "Brooksville",
+        "state": "Florida",
+        "location": {
+            "latitude": 28.5031728,
+            "longitude": -82.2160339
+        }
+    },
+    {
+        "centerId": "6021",
+        "type": "DC",
+        "address": "1300 S F St",
+        "city": "Porterville",
+        "state": "California",
+        "location": {
+            "latitude": 36.0632812,
+            "longitude": -119.0240803
+        }
+    },
+    {
+        "centerId": "6024",
+        "type": "DC",
+        "address": "3880 Southwest Blvd",
+        "city": "Grove City",
+        "state": "Ohio",
+        "location": {
+            "latitude": 39.8961359,
+            "longitude": -83.1024636
+        }
+    },
+    {
+        "centerId": "6031",
+        "type": "DC",
+        "address": "23701 W South Ave",
+        "city": "Buckeye",
+        "state": "Arizona",
+        "location": {
+            "latitude": 33.370313,
+            "longitude": -112.518352
+        }
+    },
+    {
+        "centerId": "6027",
+        "type": "DC",
+        "address": "300 Wal Mart Dr",
+        "city": "Woodland",
+        "state": "Pennsylvania",
+        "location": {
+            "latitude": 41.008196,
+            "longitude": -78.365771
+        }
+    },
+    {
+        "centerId": "6025",
+        "type": "DC",
+        "address": "6100 3M Dr",
+        "city": "Menomonie",
+        "state": "Wisconsin",
+        "location": {
+            "latitude": 44.8990028,
+            "longitude": -91.8625032
+        }
+    },
+    {
+        "centerId": "6082",
+        "type": "DC",
+        "address": "3300 Sterling Hurley Ind Rd",
+        "city": "Clarksville",
+        "state": "Arizona",
+        "location": {
+            "latitude": 32.553325,
+            "longitude": -114.510731
+        }
+    },
+    {
+        "centerId": "6038",
+        "type": "DC",
+        "address": "8827 Old River Rd",
+        "city": "Marcy",
+        "state": "New York",
+        "location": {
+            "latitude": 43.173763,
+            "longitude": -75.315226
+        }
+    },
+    {
+        "centerId": "6026",
+        "type": "DC",
+        "address": "10815 Hwy 99 W",
+        "city": "Red Bluff",
+        "state": "California",
+        "location": {
+            "latitude": 40.157331,
+            "longitude": -122.23495
+        }
+    },
+    {
+        "centerId": "6083",
+        "type": "DC",
+        "address": "9605 NW HK Dodgen Loop",
+        "city": "Temple",
+        "state": "Texas",
+        "location": {
+            "latitude": 31.141915,
+            "longitude": -97.365616
+        }
+    },
+    {
+        "centerId": "6035",
+        "type": "DC",
+        "address": "3220 Nevada Terrace",
+        "city": "Ottawa",
+        "state": "Kansas",
+        "location": {
+            "latitude": 38.614639,
+            "longitude": -95.207322
+        }
+    },
+    {
+        "centerId": "6097",
+        "type": "DC",
+        "address": "3701 W Hal Rogers Pkwy",
+        "city": "London",
+        "state": "Kentucky",
+        "location": {
+            "latitude": 37.144383,
+            "longitude": -84.174487
+        }
+    },
+    {
+        "centerId": "6030",
+        "type": "DC",
+        "address": "42 Freetown Rd",
+        "city": "Raymond",
+        "state": "New Hampshire",
+        "location": {
+            "latitude": 43.02598615,
+            "longitude": -71.1574498120986
+        }
+    },
+    {
+        "centerId": "6071",
+        "type": "DC",
+        "address": "5600 State Rd 544",
+        "city": "Winter Haven",
+        "state": "Florida",
+        "location": {
+            "latitude": 28.073277,
+            "longitude": -81.676579
+        }
+    },
+    {
+        "centerId": "6072",
+        "type": "DC",
+        "address": "973 St Hwy 30 W",
+        "city": "New Albany",
+        "state": "Mississippi",
+        "location": {
+            "latitude": 34.492922,
+            "longitude": -89.024569
+        }
+    },
+    {
+        "centerId": "6039",
+        "type": "DC",
+        "address": "1659 Pottertown Rd",
+        "city": "Midway",
+        "state": "Tennessee",
+        "location": {
+            "latitude": 35.330253,
+            "longitude": -86.323525
+        }
+    },
+    {
+        "centerId": "6040",
+        "type": "DC",
+        "address": "1057 Sand Hill Rd",
+        "city": "Hope Mills",
+        "state": "North Carolina",
+        "location": {
+            "latitude": 34.935717,
+            "longitude": -78.898949
+        }
+    },
+    {
+        "centerId": "6073",
+        "type": "DC",
+        "address": "160 State Rd S-13-682",
+        "city": "Pageland",
+        "state": "South Carolina",
+        "location": {
+            "latitude": 34.771956,
+            "longitude": -80.389862
+        }
+    },
+    {
+        "centerId": "6059",
+        "type": "DC",
+        "address": "3801 E US Hwy 50",
+        "city": "Olney",
+        "state": "Illinois",
+        "location": {
+            "latitude": 38.708861,
+            "longitude": -88.086458
+        }
+    },
+    {
+        "centerId": "6037",
+        "type": "DC",
+        "address": "1455 SE Fedville",
+        "city": "Hermiston",
+        "state": "Oregon",
+        "location": {
+            "latitude": 45.8094851,
+            "longitude": -119.2485949
+        }
+    },
+    {
+        "centerId": "6047",
+        "type": "DC",
+        "address": "5906 Bus Hwy 220",
+        "city": "Bedford",
+        "state": "Pennsylvania",
+        "location": {
+            "latitude": 40.090442,
+            "longitude": -78.515896
+        }
+    },
+    {
+        "centerId": "6048",
+        "type": "DC",
+        "address": "3160 LA-743",
+        "city": "Opelousas",
+        "state": "Louisiana",
+        "location": {
+            "latitude": 30.576252,
+            "longitude": -92.027631
+        }
+    },
+    {
+        "centerId": "6084",
+        "type": "DC",
+        "address": "670 Los Morros Rd NW",
+        "city": "Los Lunas",
+        "state": "New Mexico",
+        "location": {
+            "latitude": 34.8236364,
+            "longitude": -106.771233
+        }
+    },
+    {
+        "centerId": "6085",
+        "type": "DC",
+        "address": "525 Industrial Ave",
+        "city": "Tomah",
+        "state": "Wisconsin",
+        "location": {
+            "latitude": 43.94013,
+            "longitude": -90.82796
+        }
+    },
+    {
+        "centerId": "6054",
+        "type": "DC",
+        "address": "385 Callaway Church Rd",
+        "city": "LaGrange",
+        "state": "Georgia",
+        "location": {
+            "latitude": 33.0332066,
+            "longitude": -84.9584063
+        }
+    },
+    {
+        "centerId": "6042",
+        "type": "DC",
+        "address": "20634 S Indian Meridian Rd",
+        "city": "Pauls Valley",
+        "state": "Oklahoma",
+        "location": {
+            "latitude": 34.7423599,
+            "longitude": -97.2477389
+        }
+    },
+    {
+        "centerId": "6095",
+        "type": "DC",
+        "address": "2701 Andrews Rd",
+        "city": "Opelika",
+        "state": "Alabama",
+        "location": {
+            "latitude": 32.6955875,
+            "longitude": -85.3364163
+        }
+    },
+    {
+        "centerId": "6090",
+        "type": "DC",
+        "address": "5400W Hwy 83",
+        "city": "Corinne",
+        "state": "Utah",
+        "location": {
+            "latitude": 41.560934,
+            "longitude": -112.1447
+        }
+    },
+    {
+        "centerId": "6055",
+        "type": "DC",
+        "address": "655 Unisia Dr",
+        "city": "Monroe",
+        "state": "Georgia",
+        "location": {
+            "latitude": 33.8087204,
+            "longitude": -83.6764726
+        }
+    },
+    {
+        "centerId": "6056",
+        "type": "DC",
+        "address": "591 Apache Trail",
+        "city": "Terrell",
+        "state": "Texas",
+        "location": {
+            "latitude": 32.7304725,
+            "longitude": -96.3350933
+        }
+    },
+    {
+        "centerId": "6057",
+        "type": "DC",
+        "address": "45346 Parkway Blvd",
+        "city": "Robert",
+        "state": "Louisiana",
+        "location": {
+            "latitude": 30.5169166,
+            "longitude": -90.3219643
+        }
+    },
+    {
+        "centerId": "6043",
+        "type": "DC",
+        "address": "500 Jonesville Rd",
+        "city": "Coldwater",
+        "state": "Michigan",
+        "location": {
+            "latitude": 41.98556,
+            "longitude": -84.981085
+        }
+    },
+    {
+        "centerId": "6092",
+        "type": "DC",
+        "address": "3100 US-6",
+        "city": "Spring Valley",
+        "state": "Illinois",
+        "location": {
+            "latitude": 41.327289,
+            "longitude": -89.182176
+        }
+    },
+    {
+        "centerId": "6069",
+        "type": "DC",
+        "address": "1100 Matlock Dr",
+        "city": "St. James",
+        "state": "Missouri",
+        "location": {
+            "latitude": 38.007051,
+            "longitude": -91.632012
+        }
+    },
+    {
+        "centerId": "6068",
+        "type": "DC",
+        "address": "2120 N Stemmons Frwy",
+        "city": "Sanger",
+        "state": "Texas",
+        "location": {
+            "latitude": 33.397233,
+            "longitude": -97.172421
+        }
+    },
+    {
+        "centerId": "6062",
+        "type": "DC",
+        "address": "285 Frank Martin Rd.",
+        "city": "Shelbyville",
+        "state": "Tennessee",
+        "location": {
+            "latitude": 35.566203,
+            "longitude": -86.4579382
+        }
+    },
+    {
+        "centerId": "6074",
+        "type": "DC",
+        "address": "1729 State Road 8",
+        "city": "Auburn",
+        "state": "Indiana",
+        "location": {
+            "latitude": 41.366748,
+            "longitude": -85.110723
+        }
+    },
+    {
+        "centerId": "6065",
+        "type": "DC",
+        "address": "5100 Brookhart Dr 100",
+        "city": "Harrisonville",
+        "state": "Missouri",
+        "location": {
+            "latitude": 38.6367898,
+            "longitude": -94.3582961
+        }
+    },
+    {
+        "centerId": "6099",
+        "type": "DC",
+        "address": "11094 Enterprise Blvd",
+        "city": "Macclenny",
+        "state": "Florida",
+        "location": {
+            "latitude": 30.29648,
+            "longitude": -82.080184
+        }
+    },
+    {
+        "centerId": "6080",
+        "type": "DC",
+        "address": "276 Veterans Dr",
+        "city": "Tobyhanna",
+        "state": "Pennsylvania",
+        "location": {
+            "latitude": 41.16096885,
+            "longitude": -75.40452994038083
+        }
+    },
+    {
+        "centerId": "6070",
+        "type": "DC",
+        "address": "200 Walmart Dr",
+        "city": "Shelby",
+        "state": "North Carolina",
+        "location": {
+            "latitude": 35.311897099999996,
+            "longitude": -81.58146523759008
+        }
+    },
+    {
+        "centerId": "7012",
+        "type": "DC",
+        "address": "1400 Chillicothe Rd",
+        "city": "Washington Court House",
+        "state": "Ohio",
+        "location": {
+            "latitude": 39.531047,
+            "longitude": -83.407218
+        }
+    },
+    {
+        "centerId": "7016",
+        "type": "DC",
+        "address": "10695 James Madison Hwy",
+        "city": "Gordonsville",
+        "state": "Virginia",
+        "location": {
+            "latitude": 38.144115,
+            "longitude": -78.185865
+        }
+    },
+    {
+        "centerId": "7010",
+        "type": "DC",
+        "address": "20131 Met Rd",
+        "city": "New Caney",
+        "state": "Texas",
+        "location": {
+            "latitude": 30.156254,
+            "longitude": -95.224042
+        }
+    },
+    {
+        "centerId": "7013",
+        "type": "DC",
+        "address": "868 W Peters Rd",
+        "city": "Casa Grande",
+        "state": "Arizona",
+        "location": {
+            "latitude": 32.8672264,
+            "longitude": -111.7688483
+        }
+    },
+    {
+        "centerId": "6066",
+        "type": "DC",
+        "address": "690 Crenshaw Blvd",
+        "city": "Hopkinsville",
+        "state": "Kentucky",
+        "location": {
+            "latitude": 36.7342146,
+            "longitude": -87.4735646
+        }
+    },
+    {
+        "centerId": "7018",
+        "type": "DC",
+        "address": "3001 E State Farm Rd",
+        "city": "North Platte",
+        "state": "Nebraska",
+        "location": {
+            "latitude": 41.09468055,
+            "longitude": -100.73172034218447
+        }
+    },
+    {
+        "centerId": "7019",
+        "type": "DC",
+        "address": "1005 Sara G Lott Blvd",
+        "city": "Brundridge",
+        "state": "Alabama",
+        "location": {
+            "latitude": 31.719948,
+            "longitude": -85.839017
+        }
+    },
+    {
+        "centerId": "7021",
+        "type": "DC",
+        "address": "546 Woodall Rd",
+        "city": "Grandview",
+        "state": "Washington",
+        "location": {
+            "latitude": 46.2792333,
+            "longitude": -119.9190559
+        }
+    },
+    {
+        "centerId": "6064",
+        "type": "DC",
+        "address": "3470 Windmill Rd",
+        "city": "Cleburne",
+        "state": "Texas",
+        "location": {
+            "latitude": 32.4064093,
+            "longitude": -97.4272275
+        }
+    },
+    {
+        "centerId": "7017",
+        "type": "DC",
+        "address": "843 OH-43",
+        "city": "Richmond",
+        "state": "Ohio",
+        "location": {
+            "latitude": 39.202633,
+            "longitude": -82.814103
+        }
+    },
+    {
+        "centerId": "7048",
+        "type": "DC",
+        "address": "2195 NV-439",
+        "city": "Sparks",
+        "state": "Nevada",
+        "location": {
+            "latitude": 39.402176,
+            "longitude": -119.269044
+        }
+    },
+    {
+        "centerId": "7030",
+        "type": "DC",
+        "address": "390 Highridge Park Rd",
+        "city": "Pottsville",
+        "state": "Pennsylvania",
+        "location": {
+            "latitude": 40.732723,
+            "longitude": -76.295834
+        }
+    },
+    {
+        "centerId": "7084",
+        "type": "DC",
+        "address": "1001 Columbia Ave",
+        "city": "Riverside",
+        "state": "California",
+        "location": {
+            "latitude": 34.002952500000006,
+            "longitude": -117.33262926346278
+        }
+    },
+    {
+        "centerId": "7079",
+        "type": "DC",
+        "address": "101 Sohler Dr",
+        "city": "Mankato",
+        "state": "Minnesota",
+        "location": {
+            "latitude": 44.179123,
+            "longitude": -93.935404
+        }
+    },
+    {
+        "centerId": "7377",
+        "type": "DC",
+        "address": "1625 Heilmandale Rd",
+        "city": "Lebanon",
+        "state": "Pennsylvania",
+        "location": {
+            "latitude": 40.3664242,
+            "longitude": -76.4719598
+        }
+    },
+    {
+        "centerId": "3040",
+        "type": "FC",
+        "address": "3501 S Brandon Rd",
+        "city": "Joliet",
+        "state": "Illinois",
+        "location": {
+            "latitude": 41.4404893,
+            "longitude": -88.108012
+        }
+    },
+    {
+        "centerId": "7078",
+        "type": "DC",
+        "address": "26453 S Walton Dr",
+        "city": "Elwood",
+        "state": "Illinois",
+        "location": {
+            "latitude": 41.392336,
+            "longitude": -88.144545
+        }
+    },
+    {
+        "centerId": "7035",
+        "type": "DC",
+        "address": "18815 NW 115 Ave",
+        "city": "Alachua",
+        "state": "Florida",
+        "location": {
+            "latitude": 29.756935,
+            "longitude": -82.542467
+        }
+    },
+    {
+        "centerId": "7024",
+        "type": "DC",
+        "address": "23769 Mathew Rd",
+        "city": "Sterling",
+        "state": "Illinois",
+        "location": {
+            "latitude": 41.777585,
+            "longitude": -89.791676
+        }
+    },
+    {
+        "centerId": "7039",
+        "type": "DC",
+        "address": "115 Distribution Way",
+        "city": "Beaver Dam",
+        "state": "Wisconsin",
+        "location": {
+            "latitude": 43.509929,
+            "longitude": -88.794384
+        }
+    },
+    {
+        "centerId": "6096",
+        "type": "DC",
+        "address": "100 Opportunity Dr",
+        "city": "Johnstown",
+        "state": "New York",
+        "location": {
+            "latitude": 42.9847087,
+            "longitude": -74.3890132
+        }
+    },
+    {
+        "centerId": "6091",
+        "type": "DC",
+        "address": "453 Martin Creek Rd",
+        "city": "Henderson",
+        "state": "North Carolina",
+        "location": {
+            "latitude": 36.291104,
+            "longitude": -78.386503
+        }
+    },
+    {
+        "centerId": "8852",
+        "type": "DC",
+        "address": "2701 Driver Rd",
+        "city": "Shafter",
+        "state": "California",
+        "location": {
+            "latitude": 35.4453015,
+            "longitude": -119.2075276
+        }
+    },
+    {
+        "centerId": "8851",
+        "type": "DC",
+        "address": "4505 FL-524",
+        "city": "Cocoa",
+        "state": "Florida",
+        "location": {
+            "latitude": 28.380394407407408,
+            "longitude": -80.79526996296296
+        }
+    },
+    {
+        "centerId": "6041",
+        "type": "DC",
+        "address": "721 US-20",
+        "city": "Sharon Springs",
+        "state": "New York",
+        "location": {
+            "latitude": 42.7878412,
+            "longitude": -74.6024695
+        }
+    },
+    {
+        "centerId": "6023",
+        "type": "DC",
+        "address": "21500 Cox Rd",
+        "city": "Petersburg",
+        "state": "Virginia",
+        "location": {
+            "latitude": 37.217378,
+            "longitude": -77.441702
+        }
+    },
+    {
+        "centerId": "6021",
+        "type": "DC",
+        "address": "1005 S H St",
+        "city": "Porterville",
+        "state": "California",
+        "location": {
+            "latitude": 36.0632812,
+            "longitude": -119.0240803
+        }
+    },
+    {
+        "centerId": "6005",
+        "type": "DC",
+        "address": "201 Old Elkhart Rd",
+        "city": "Palestine",
+        "state": "Texas",
+        "location": {
+            "latitude": 31.74043,
+            "longitude": -95.6178734
+        }
+    },
+    {
+        "centerId": "6037",
+        "type": "DC",
+        "address": "2650 US-395",
+        "city": "Hermiston",
+        "state": "Oregon",
+        "location": {
+            "latitude": 45.8094851,
+            "longitude": -119.2485949
+        }
+    },
+    {
+        "centerId": "6088",
+        "type": "DC",
+        "address": "9305 Pocahontas Trail",
+        "city": "Williamsburg",
+        "state": "Virginia",
+        "location": {
+            "latitude": 37.2011148,
+            "longitude": -76.5962148
+        }
+    },
+    {
+        "centerId": "8074",
+        "type": "DC",
+        "address": "100 Western Dr",
+        "city": "Westampton",
+        "state": "New Jersey",
+        "location": {
+            "latitude": 40.0326966,
+            "longitude": -74.8187409
+        }
+    },
+    {
+        "centerId": "8092",
+        "type": "DC",
+        "address": "5795 N Blackstock Rd",
+        "city": "Spartanburg",
+        "state": "South Carolina",
+        "location": {
+            "latitude": 35.001695999999995,
+            "longitude": -82.03816326362988
+        }
+    },
+    {
+        "centerId": "8098",
+        "type": "DC",
+        "address": "1901 Se 10th Street",
+        "city": "Bentonville",
+        "state": "Arizona",
+        "location": {
+            "latitude": 32.553325,
+            "longitude": -114.510731
+        }
+    },
+    {
+        "centerId": "9066",
+        "type": "DC",
+        "address": "235 E Sydney Dr",
+        "city": "McCarran",
+        "state": "Nevada",
+        "location": {
+            "latitude": 39.522121,
+            "longitude": -119.472859
+        }
+    },
+    {
+        "centerId": "7566",
+        "type": "DC",
+        "address": "1 Gateway Blvd",
+        "city": "Pedricktown",
+        "state": "New Jersey",
+        "location": {
+            "latitude": 39.962189,
+            "longitude": -74.199647
+        }
+    },
+    {
+        "centerId": "7076",
+        "type": "DC",
+        "address": "3 Sorbello Rd",
+        "city": "Pedricktown",
+        "state": "New Jersey",
+        "location": {
+            "latitude": 40.301342,
+            "longitude": -74.348506
+        }
+    },
+    {
+        "centerId": "8397",
+        "type": "DC",
+        "address": "2063 Miguel Bustamante Pkwy",
+        "city": "Colton",
+        "state": "California",
+        "location": {
+            "latitude": 34.0389381,
+            "longitude": -117.36092381668952
+        }
+    },
+    {
+        "centerId": "7025",
+        "type": "DC",
+        "address": "1001 Columbia Ave",
+        "city": "Riverside",
+        "state": "California",
+        "location": {
+            "latitude": 34.002952500000006,
+            "longitude": -117.33262926346278
+        }
+    },
+    {
+        "centerId": "7055",
+        "type": "DC",
+        "address": "100 Fischer Pkwy",
+        "city": "Gas City",
+        "state": "Indiana",
+        "location": {
+            "latitude": 40.472722,
+            "longitude": -85.582583
+        }
+    },
+    {
+        "centerId": "7077",
+        "type": "DC",
+        "address": "426 Logistics Dr",
+        "city": "Cheyenne",
+        "state": "Wyoming",
+        "location": {
+            "latitude": 41.1196066,
+            "longitude": -104.90197018884481
+        }
+    },
+    {
+        "centerId": "6858",
+        "type": "DC",
+        "address": "2837 Senator Ralph Scott Pkwy",
+        "city": "Mebane",
+        "state": "North Carolina",
+        "location": {
+            "latitude": 36.056196150000005,
+            "longitude": -79.32537815316189
+        }
+    }
+]

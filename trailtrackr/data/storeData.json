@@ -1,0 +1,5510 @@
+[
+    {
+        "centerId": "2070",
+        "type": "S",
+        "address": "3101 A",
+        "city": "STANCHORAGE",
+        "state": "Alaska",
+        "phoneNumber": "(907) 563-5900",
+        "location": {
+            "latitude": 61.19185,
+            "longitude": -149.880456
+        }
+    },
+    {
+        "centerId": "2071",
+        "type": "S",
+        "address": "8900 OLD SEWARD",
+        "city": "HWYANCHORAGE",
+        "state": "Alaska",
+        "phoneNumber": "(907) 344-5300",
+        "location": {
+            "latitude": 61.140306,
+            "longitude": -149.868976
+        }
+    },
+    {
+        "centerId": "4359",
+        "type": "S",
+        "address": "7405 DEBARR",
+        "city": "ROADANCHORAGE",
+        "state": "Alaska",
+        "phoneNumber": "(907) 339-9039",
+        "location": {
+            "latitude": 61.209901,
+            "longitude": -149.743394
+        }
+    },
+    {
+        "centerId": "2188",
+        "type": "S",
+        "address": "18600 EAGLE  RDEAGLE RIVER",
+        "city": "RIVER",
+        "state": "Alaska",
+        "phoneNumber": "(907) 694-9780",
+        "location": {
+            "latitude": 45.331001,
+            "longitude": -100.120861
+        }
+    },
+    {
+        "centerId": "2722",
+        "type": "S",
+        "address": "537 JOHANSEN",
+        "city": "EXPYFAIRBANKS",
+        "state": "Alaska",
+        "phoneNumber": "(907) 451-9900",
+        "location": {
+            "latitude": 64.856459,
+            "longitude": -147.689498
+        }
+    },
+    {
+        "centerId": "4474",
+        "type": "S",
+        "address": "10096 KENAI SPUR",
+        "city": "HWYKENAI",
+        "state": "Alaska",
+        "phoneNumber": "(907) 395-0971",
+        "location": {
+            "latitude": 60.563956,
+            "longitude": -151.226299
+        }
+    },
+    {
+        "centerId": "2710",
+        "type": "S",
+        "address": "4230 DON KING",
+        "city": "RDKETCHIKAN",
+        "state": "Alaska",
+        "phoneNumber": "(907) 247-2156",
+        "location": {
+            "latitude": 55.375735,
+            "longitude": -131.720506
+        }
+    },
+    {
+        "centerId": "2711",
+        "type": "S",
+        "address": "2911 MILL BAY",
+        "city": "RDKODIAK",
+        "state": "Alaska",
+        "phoneNumber": "(907) 481-1670",
+        "location": {
+            "latitude": 57.811761,
+            "longitude": -152.364841
+        }
+    },
+    {
+        "centerId": "2074",
+        "type": "S",
+        "address": "1350 S SEWARD MERIDIAN",
+        "city": "PKWYWASILLA",
+        "state": "Alaska",
+        "phoneNumber": "(907) 376-9780",
+        "location": {
+            "latitude": 61.568874,
+            "longitude": -149.361032
+        }
+    },
+    {
+        "centerId": "1158",
+        "type": "S",
+        "address": "2473 HACKWORTH",
+        "city": "RDADAMSVILLE",
+        "state": "Alabama",
+        "phoneNumber": "(205) 798-9721",
+        "location": {
+            "latitude": 33.581013,
+            "longitude": -86.923418
+        }
+    },
+    {
+        "centerId": "726",
+        "type": "S",
+        "address": "2643 HIGHWAY 280EXANDER",
+        "city": "CITYAL",
+        "state": "Alabama",
+        "phoneNumber": "(256) 234-0316",
+        "location": {
+            "latitude": 43.09645,
+            "longitude": -78.39086
+        }
+    },
+    {
+        "centerId": "329",
+        "type": "S",
+        "address": "5560 MCCLELLAN",
+        "city": "BLVDANNISTON",
+        "state": "Alabama",
+        "phoneNumber": "(256) 820-3326",
+        "location": {
+            "latitude": 33.720093,
+            "longitude": -85.820134
+        }
+    },
+    {
+        "centerId": "306",
+        "type": "S",
+        "address": "1450 N BRINDLEE",
+        "city": "MOUNARAB",
+        "state": "Alabama",
+        "phoneNumber": "(256) 586-8168",
+        "location": {
+            "latitude": 34.342176,
+            "longitude": -86.500198
+        }
+    },
+    {
+        "centerId": "661",
+        "type": "S",
+        "address": "1011 US HIGHWAY 72",
+        "city": "EATHENS",
+        "state": "Alabama",
+        "phoneNumber": "(256) 230-2981",
+        "location": {
+            "latitude": 34.788076,
+            "longitude": -86.958428
+        }
+    },
+    {
+        "centerId": "316",
+        "type": "S",
+        "address": "973 GILBERT FERRY RD",
+        "city": "SEATTLAAL",
+        "state": "Alabama",
+        "phoneNumber": "(256) 538-3811",
+        "location": {
+            "latitude": 33.9969636,
+            "longitude": -86.0968841
+        }
+    },
+    {
+        "centerId": "356",
+        "type": "S",
+        "address": "1717 S COLLEGE",
+        "city": "STAUBURN",
+        "state": "Alabama",
+        "phoneNumber": "(334) 821-2493",
+        "location": {
+            "latitude": 32.570971,
+            "longitude": -85.497533
+        }
+    },
+    {
+        "centerId": "4673",
+        "type": "S",
+        "address": "1810 SHUG JORDAN",
+        "city": "PKWYAUBURN",
+        "state": "Alabama",
+        "phoneNumber": "(334) 539-6318",
+        "location": {
+            "latitude": 32.630419,
+            "longitude": -85.495377
+        }
+    },
+    {
+        "centerId": "5062",
+        "type": "S",
+        "address": "2047 E UNIVERSITY",
+        "city": "DRAUBURN",
+        "state": "Alabama",
+        "phoneNumber": "(334) 539-6214",
+        "location": {
+            "latitude": 32.624618,
+            "longitude": -85.450114
+        }
+    },
+    {
+        "centerId": "762",
+        "type": "S",
+        "address": "9248 PARKWAY",
+        "city": "EBIRMINGHAM",
+        "state": "Alabama",
+        "phoneNumber": "(205) 833-7676",
+        "location": {
+            "latitude": 33.589406,
+            "longitude": -86.701003
+        }
+    },
+    {
+        "centerId": "358",
+        "type": "S",
+        "address": "367 W CHERRY",
+        "city": "STALMA",
+        "state": "Arkansas",
+        "phoneNumber": "(479) 632-4585",
+        "location": {
+            "latitude": 35.479237,
+            "longitude": -94.228933
+        }
+    },
+    {
+        "centerId": "318",
+        "type": "S",
+        "address": "109 WP MALONE",
+        "city": "DRKADELPHIAAR",
+        "state": "Arkansas",
+        "phoneNumber": "(870) 246-2459",
+        "location": {
+            "latitude": 34.119532,
+            "longitude": -93.096525
+        }
+    },
+    {
+        "centerId": "160",
+        "type": "S",
+        "address": "219 HIGHWAY 412ASH",
+        "city": "FLAT",
+        "state": "Arkansas",
+        "phoneNumber": "(870) 994-7520",
+        "location": {
+            "latitude": 35.95952,
+            "longitude": -92.98601
+        }
+    },
+    {
+        "centerId": "133",
+        "type": "S",
+        "address": "297 HIGHWAY 32",
+        "city": "BYPASHDOWN",
+        "state": "Arkansas",
+        "phoneNumber": "(870) 898-5126",
+        "location": {
+            "latitude": 33.657336,
+            "longitude": -94.109429
+        }
+    },
+    {
+        "centerId": "119",
+        "type": "S",
+        "address": "3150 HRISON",
+        "city": "STBATESVILLEAR",
+        "state": "Arkansas",
+        "phoneNumber": "(870) 793-9004",
+        "location": {
+            "latitude": 39.07455,
+            "longitude": -78.72918
+        }
+    },
+    {
+        "centerId": "4168",
+        "type": "S",
+        "address": "2003 W CENTER",
+        "city": "STBEEBE",
+        "state": "Arkansas",
+        "phoneNumber": "(501) 882-1017",
+        "location": {
+            "latitude": 35.310983,
+            "longitude": -91.592754
+        }
+    },
+    {
+        "centerId": "85",
+        "type": "S",
+        "address": "17309 INTERSTATE 30",
+        "city": "SBENTON",
+        "state": "Arkansas",
+        "phoneNumber": "(501) 860-6135",
+        "location": {
+            "latitude": 39.07455,
+            "longitude": -78.72918
+        }
+    },
+    {
+        "centerId": "100",
+        "type": "S",
+        "address": "406 S WALTON",
+        "city": "BLVDBENTONVILLE",
+        "state": "Arkansas",
+        "phoneNumber": "(479) 273-0060",
+        "location": {
+            "latitude": 36.368227,
+            "longitude": -94.224963
+        }
+    },
+    {
+        "centerId": "2203",
+        "type": "S",
+        "address": "702 SW 8TH ST",
+        "city": "PHMACYBENTONVILLEAR",
+        "state": "Arkansas",
+        "phoneNumber": "(479) 273-4941",
+        "location": {
+            "latitude": 36.36468,
+            "longitude": -94.217677
+        }
+    },
+    {
+        "centerId": "2686",
+        "type": "S",
+        "address": "1703 E CENTRAL",
+        "city": "AVEBENTONVILLE",
+        "state": "Arkansas",
+        "phoneNumber": "(479) 418-0227",
+        "location": {
+            "latitude": 36.37224,
+            "longitude": -94.189035
+        }
+    },
+    {
+        "centerId": "5329",
+        "type": "S",
+        "address": "4435 W ANTHEM",
+        "city": "WAYANTHEM",
+        "state": "Arizona",
+        "phoneNumber": "(623) 551-6314",
+        "location": {
+            "latitude": 33.867627,
+            "longitude": -112.154721
+        }
+    },
+    {
+        "centerId": "1381",
+        "type": "S",
+        "address": "2555 W APACHE TRLAPACHE",
+        "city": "JUNCTION",
+        "state": "Arizona",
+        "phoneNumber": "(480) 380-3800",
+        "location": {
+            "latitude": 31.910928,
+            "longitude": -109.152308
+        }
+    },
+    {
+        "centerId": "2554",
+        "type": "S",
+        "address": "13055 W RANCHO SANTA FE",
+        "city": "BLVDAVONDALE",
+        "state": "Arizona",
+        "phoneNumber": "(623) 935-4010",
+        "location": {
+            "latitude": 33.663268,
+            "longitude": -112.036983
+        }
+    },
+    {
+        "centerId": "3807",
+        "type": "S",
+        "address": "201 S PRICKLY PEAR",
+        "city": "AVEBENSON",
+        "state": "Arizona",
+        "phoneNumber": "(520) 586-0742",
+        "location": {
+            "latitude": 31.968867,
+            "longitude": -110.314217
+        }
+    },
+    {
+        "centerId": "3407",
+        "type": "S",
+        "address": "1060 S WATSON",
+        "city": "RDBUCKEYE",
+        "state": "Arizona",
+        "phoneNumber": "(623) 474-6728",
+        "location": {
+            "latitude": 33.437114,
+            "longitude": -112.559755
+        }
+    },
+    {
+        "centerId": "1370",
+        "type": "S",
+        "address": "2840 HIGHWAY 95BULLHEAD",
+        "city": "CITY",
+        "state": "Arizona",
+        "phoneNumber": "(928) 758-7222",
+        "location": {
+            "latitude": 34.40395,
+            "longitude": -110.5661
+        }
+    },
+    {
+        "centerId": "1218",
+        "type": "S",
+        "address": "1741 E FLORENCE BLVDCASA",
+        "city": "GRANDE",
+        "state": "Arizona",
+        "phoneNumber": "(520) 421-1200",
+        "location": {
+            "latitude": 33.213176,
+            "longitude": -111.547148
+        }
+    },
+    {
+        "centerId": "5835",
+        "type": "S",
+        "address": "34399 N CAVE  RDCAVE CREEK",
+        "city": "CREEK",
+        "state": "Arizona",
+        "phoneNumber": "(480) 296-7398",
+        "location": {
+            "latitude": 32.553325,
+            "longitude": -114.510731
+        }
+    },
+    {
+        "centerId": "1512",
+        "type": "S",
+        "address": "800 W WARNER",
+        "city": "RDCHANDLER",
+        "state": "Arizona",
+        "phoneNumber": "(480) 786-0062",
+        "location": {
+            "latitude": 33.33676,
+            "longitude": -111.854641
+        }
+    },
+    {
+        "centerId": "2671",
+        "type": "S",
+        "address": "1175 S ARIZONA",
+        "city": "AVECHANDLER",
+        "state": "Arizona",
+        "phoneNumber": "(480) 726-0841",
+        "location": {
+            "latitude": 33.289266,
+            "longitude": -111.838689
+        }
+    },
+    {
+        "centerId": "1651",
+        "type": "S",
+        "address": "7011 MAIN STAMERIN",
+        "city": "CANYONCA",
+        "state": "California",
+        "phoneNumber": "(707) 557-4393",
+        "location": {
+            "latitude": 40.082276,
+            "longitude": -79.921385
+        }
+    },
+    {
+        "centerId": "2242",
+        "type": "S",
+        "address": "440 N EUCLID",
+        "city": "STANAHEIM",
+        "state": "California",
+        "phoneNumber": "(714) 491-0744",
+        "location": {
+            "latitude": 33.83637,
+            "longitude": -117.938332
+        }
+    },
+    {
+        "centerId": "3101",
+        "type": "S",
+        "address": "121 N BEACH",
+        "city": "BLVDANAHEIM",
+        "state": "California",
+        "phoneNumber": "(714) 822-3179",
+        "location": {
+            "latitude": 33.833358,
+            "longitude": -117.994742
+        }
+    },
+    {
+        "centerId": "5640",
+        "type": "S",
+        "address": "1120 S ANAHEIM",
+        "city": "BLVDANAHEIM",
+        "state": "California",
+        "phoneNumber": "(657) 208-5201",
+        "location": {
+            "latitude": 33.819297,
+            "longitude": -117.908281
+        }
+    },
+    {
+        "centerId": "5930",
+        "type": "S",
+        "address": "88 E ORANGETHORPE",
+        "city": "AVEANAHEIM",
+        "state": "California",
+        "phoneNumber": "(714) 447-6751",
+        "location": {
+            "latitude": 33.858329,
+            "longitude": -117.918818
+        }
+    },
+    {
+        "centerId": "5133",
+        "type": "S",
+        "address": "5000 RHONDA",
+        "city": "RDANDERSON",
+        "state": "California",
+        "phoneNumber": "(530) 378-0244",
+        "location": {
+            "latitude": 40.43159,
+            "longitude": -122.289394
+        }
+    },
+    {
+        "centerId": "1881",
+        "type": "S",
+        "address": "7901 WATT",
+        "city": "AVEANTELOPE",
+        "state": "California",
+        "phoneNumber": "(916) 332-3173",
+        "location": {
+            "latitude": 38.712824,
+            "longitude": -121.393767
+        }
+    },
+    {
+        "centerId": "2697",
+        "type": "S",
+        "address": "4893 LONE TREE",
+        "city": "WAYANTIOCH",
+        "state": "California",
+        "phoneNumber": "(925) 755-0900",
+        "location": {
+            "latitude": 37.963445,
+            "longitude": -121.761856
+        }
+    },
+    {
+        "centerId": "2333",
+        "type": "S",
+        "address": "20251 HWY 18APPLE",
+        "city": "VALLEY",
+        "state": "California",
+        "phoneNumber": "(760) 946-2030",
+        "location": {
+            "latitude": 36.27414,
+            "longitude": -115.07139
+        }
+    },
+    {
+        "centerId": "2556",
+        "type": "S",
+        "address": "1168 W BRANCH STARROYO",
+        "city": "GRANDE",
+        "state": "California",
+        "phoneNumber": "(805) 474-0800",
+        "location": {
+            "latitude": 38.578274,
+            "longitude": -121.739278
+        }
+    },
+    {
+        "centerId": "869",
+        "type": "S",
+        "address": "3333 CLARK",
+        "city": "STALAMOSA",
+        "state": "Colorado",
+        "phoneNumber": "(719) 589-9071",
+        "location": {
+            "latitude": 37.48169,
+            "longitude": -105.904472
+        }
+    },
+    {
+        "centerId": "4734",
+        "type": "S",
+        "address": "9400 RALSTON",
+        "city": "ROADARVADA",
+        "state": "Colorado",
+        "phoneNumber": "(720) 624-0346",
+        "location": {
+            "latitude": -22.837773,
+            "longitude": -51.975168
+        }
+    },
+    {
+        "centerId": "1492",
+        "type": "S",
+        "address": "14000 E EXPOSITION",
+        "city": "AVEAURORA",
+        "state": "Colorado",
+        "phoneNumber": "(303) 368-1115",
+        "location": {
+            "latitude": 39.702036,
+            "longitude": -104.826145
+        }
+    },
+    {
+        "centerId": "1689",
+        "type": "S",
+        "address": "5650 S CHAMBERS",
+        "city": "RDAURORA",
+        "state": "Colorado",
+        "phoneNumber": "(303) 690-6322",
+        "location": {
+            "latitude": 39.61394,
+            "longitude": -104.811442
+        }
+    },
+    {
+        "centerId": "3740",
+        "type": "S",
+        "address": "21475 E QUINCY",
+        "city": "AVEAURORA",
+        "state": "Colorado",
+        "phoneNumber": "(303) 248-4048",
+        "location": {
+            "latitude": 39.639939,
+            "longitude": -104.737922
+        }
+    },
+    {
+        "centerId": "4196",
+        "type": "S",
+        "address": "15240 E ILIFF",
+        "city": "AVEAURORA",
+        "state": "Colorado",
+        "phoneNumber": "(303) 481-3904",
+        "location": {
+            "latitude": 39.673482,
+            "longitude": -104.811238
+        }
+    },
+    {
+        "centerId": "5137",
+        "type": "S",
+        "address": "6101 S AURORA",
+        "city": "PKWYAURORA",
+        "state": "Colorado",
+        "phoneNumber": "(303) 617-1261",
+        "location": {
+            "latitude": 39.606356,
+            "longitude": -104.704712
+        }
+    },
+    {
+        "centerId": "5334",
+        "type": "S",
+        "address": "3301 TOWER",
+        "city": "RDAURORA",
+        "state": "Colorado",
+        "phoneNumber": "(720) 374-0278",
+        "location": {
+            "latitude": 39.762213,
+            "longitude": -104.774856
+        }
+    },
+    {
+        "centerId": "6178",
+        "type": "S",
+        "address": "10400 E LFAX",
+        "city": "AVEAURORACO",
+        "state": "Colorado",
+        "phoneNumber": "(303) 537-9808",
+        "location": {
+            "latitude": -22.837773,
+            "longitude": -51.975168
+        }
+    },
+    {
+        "centerId": "1199",
+        "type": "S",
+        "address": "171 YODER",
+        "city": "AVEAVON",
+        "state": "Colorado",
+        "phoneNumber": "(970) 949-6442",
+        "location": {
+            "latitude": 39.627397,
+            "longitude": -106.49998
+        }
+    },
+    {
+        "centerId": "2899",
+        "type": "S",
+        "address": "PO BOX",
+        "city": "1630AVON",
+        "state": "Connecticut",
+        "phoneNumber": "(860) 409-0404",
+        "location": {
+            "latitude": 41.580163,
+            "longitude": -72.756629
+        }
+    },
+    {
+        "centerId": "2232",
+        "type": "S",
+        "address": "120 COMMERCIAL",
+        "city": "PKWYBRANFORD",
+        "state": "Connecticut",
+        "phoneNumber": "(203) 488-4106",
+        "location": {
+            "latitude": 41.280847,
+            "longitude": -72.830674
+        }
+    },
+    {
+        "centerId": "2719",
+        "type": "S",
+        "address": "1400 FARMINGTON",
+        "city": "AVEBRISTOL",
+        "state": "Connecticut",
+        "phoneNumber": "(860) 585-1700",
+        "location": {
+            "latitude": 41.69758,
+            "longitude": -72.897581
+        }
+    },
+    {
+        "centerId": "5777",
+        "type": "S",
+        "address": "450 PROVIDENCE",
+        "city": "ROADBROOKLYN",
+        "state": "Connecticut",
+        "phoneNumber": "(860) 412-5137",
+        "location": {
+            "latitude": 41.797389,
+            "longitude": -71.911828
+        }
+    },
+    {
+        "centerId": "2299",
+        "type": "S",
+        "address": "161 BERLIN",
+        "city": "RDCROMWELL",
+        "state": "Connecticut",
+        "phoneNumber": "(860) 635-0458",
+        "location": {
+            "latitude": 41.596173,
+            "longitude": -72.863448
+        }
+    },
+    {
+        "centerId": "3543",
+        "type": "S",
+        "address": "67 NEWTOWN",
+        "city": "RDDANBURY",
+        "state": "Connecticut",
+        "phoneNumber": "(203) 791-1929",
+        "location": {
+            "latitude": 41.128716,
+            "longitude": -73.404246
+        }
+    },
+    {
+        "centerId": "2282",
+        "type": "S",
+        "address": "44 PROSPE HILL ROADEAST",
+        "city": "WINDSORCT",
+        "state": "Connecticut",
+        "phoneNumber": "(860) 292-1235",
+        "location": {
+            "latitude": 41.335966,
+            "longitude": -72.92277
+        }
+    },
+    {
+        "centerId": "2200",
+        "type": "S",
+        "address": "150 GOLD STAR",
+        "city": "HWYGROTON",
+        "state": "Connecticut",
+        "phoneNumber": "(860) 448-2022",
+        "location": {
+            "latitude": 41.370257,
+            "longitude": -72.064564
+        }
+    },
+    {
+        "centerId": "3545",
+        "type": "S",
+        "address": "2300 DIXWELL",
+        "city": "AVEHAMDEN",
+        "state": "Connecticut",
+        "phoneNumber": "(203) 230-0285",
+        "location": {
+            "latitude": 41.373032,
+            "longitude": -72.918739
+        }
+    },
+    {
+        "centerId": "5095",
+        "type": "S",
+        "address": "495 FLATBUSH",
+        "city": "AVENUEHARTFORD",
+        "state": "Connecticut",
+        "phoneNumber": "(860) 953-0040",
+        "location": {
+            "latitude": 41.73996,
+            "longitude": -72.71338
+        }
+    },
+    {
+        "centerId": "5039",
+        "type": "S",
+        "address": "263 WALMART",
+        "city": "DRCAMNDE",
+        "state": "Delaware",
+        "phoneNumber": "(302) 698-9170",
+        "location": {
+            "latitude": 39.102363,
+            "longitude": -75.545098
+        }
+    },
+    {
+        "centerId": "1736",
+        "type": "S",
+        "address": "36 JEROME",
+        "city": "DRDOVER",
+        "state": "Delaware",
+        "phoneNumber": "(302) 674-2159",
+        "location": {
+            "latitude": 39.216428,
+            "longitude": -75.570613
+        }
+    },
+    {
+        "centerId": "2791",
+        "type": "S",
+        "address": "4 COLLEGE PARK",
+        "city": "LNGEORGETOWN",
+        "state": "Delaware",
+        "phoneNumber": "(302) 854-9454",
+        "location": {
+            "latitude": 38.70263,
+            "longitude": -75.404383
+        }
+    },
+    {
+        "centerId": "3802",
+        "type": "S",
+        "address": "705 MIDDLETOWN WARWICK",
+        "city": "RDMIDDLETOWN",
+        "state": "Delaware",
+        "phoneNumber": "(302) 449-1254",
+        "location": {
+            "latitude": 38.60317,
+            "longitude": -75.23047
+        }
+    },
+    {
+        "centerId": "1741",
+        "type": "S",
+        "address": "939 N DUPONT",
+        "city": "BLVDMILFORD",
+        "state": "Delaware",
+        "phoneNumber": "(302) 422-2854",
+        "location": {
+            "latitude": 38.929178,
+            "longitude": -75.435203
+        }
+    },
+    {
+        "centerId": "2555",
+        "type": "S",
+        "address": "117 WILTON BLVDNEW",
+        "city": "CASTLE",
+        "state": "Delaware",
+        "phoneNumber": "(302) 324-0900",
+        "location": {
+            "latitude": 39.954349,
+            "longitude": -86.02118
+        }
+    },
+    {
+        "centerId": "2419",
+        "type": "S",
+        "address": "18922 REHOBOTH MALL BLVDREHOBOTH",
+        "city": "BEACH",
+        "state": "Delaware",
+        "phoneNumber": "(302) 644-8014",
+        "location": {
+            "latitude": 39.954349,
+            "longitude": -86.02118
+        }
+    },
+    {
+        "centerId": "2460",
+        "type": "S",
+        "address": "22899 SUSSEX",
+        "city": "HWYSEAFORD",
+        "state": "Delaware",
+        "phoneNumber": "(302) 628-1668",
+        "location": {
+            "latitude": 38.661099,
+            "longitude": -75.590926
+        }
+    },
+    {
+        "centerId": "5436",
+        "type": "S",
+        "address": "1251 CENTERVILLE",
+        "city": "RDWILMINGTON",
+        "state": "Delaware",
+        "phoneNumber": "(302) 683-9312",
+        "location": {
+            "latitude": 39.954349,
+            "longitude": -86.02118
+        }
+    },
+    {
+        "centerId": "1374",
+        "type": "S",
+        "address": "200 S STATE ROAD 434ALTAMONTE",
+        "city": "SPRINGS",
+        "state": "Florida",
+        "phoneNumber": "(407) 774-9966",
+        "location": {
+            "latitude": 29.646625,
+            "longitude": -81.67506
+        }
+    },
+    {
+        "centerId": "955",
+        "type": "S",
+        "address": "1700 S ORANGE BLOSSOM",
+        "city": "TRAILAPOPKA",
+        "state": "Florida",
+        "phoneNumber": "(407) 889-8668",
+        "location": {
+            "latitude": 28.523324,
+            "longitude": -81.397564
+        }
+    },
+    {
+        "centerId": "6894",
+        "type": "S",
+        "address": "820 BALMY BEACH",
+        "city": "DRAPOPKA",
+        "state": "Florida",
+        "phoneNumber": "(407) 457-6291",
+        "location": {
+            "latitude": 28.670561,
+            "longitude": -81.457157
+        }
+    },
+    {
+        "centerId": "811",
+        "type": "S",
+        "address": "2725 SE HIGHWAY",
+        "city": "70ARCADIA",
+        "state": "Florida",
+        "phoneNumber": "(863) 993-1677",
+        "location": {
+            "latitude": 7.06222,
+            "longitude": -73.08644
+        }
+    },
+    {
+        "centerId": "718",
+        "type": "S",
+        "address": "2120 US HIGHWAY 92",
+        "city": "WAUBURNDALE",
+        "state": "Florida",
+        "phoneNumber": "(863) 967-1164",
+        "location": {
+            "latitude": 28.05735,
+            "longitude": -81.81514
+        }
+    },
+    {
+        "centerId": "3887",
+        "type": "S",
+        "address": "1041 US HIGHWAY 27 NAVON",
+        "city": "PARK",
+        "state": "Florida",
+        "phoneNumber": "(863) 453-4177",
+        "location": {
+            "latitude": 39.766463,
+            "longitude": -87.229703
+        }
+    },
+    {
+        "centerId": "580",
+        "type": "S",
+        "address": "1050 E VAN EET",
+        "city": "DRBARTOWFL",
+        "state": "Florida",
+        "phoneNumber": "(863) 533-5400",
+        "location": {
+            "latitude": 7.06222,
+            "longitude": -73.08644
+        }
+    },
+    {
+        "centerId": "3858",
+        "type": "S",
+        "address": "22100 S STATE ROAD 7BOCA",
+        "city": "RATON",
+        "state": "Florida",
+        "phoneNumber": "(561) 226-3157",
+        "location": {
+            "latitude": 7.06222,
+            "longitude": -73.08644
+        }
+    },
+    {
+        "centerId": "2396",
+        "type": "S",
+        "address": "12700 S MILITARY TRLBOYNTON",
+        "city": "BEACH",
+        "state": "Florida",
+        "phoneNumber": "(561) 808-1090",
+        "location": {
+            "latitude": 26.48777,
+            "longitude": -80.1226
+        }
+    },
+    {
+        "centerId": "2789",
+        "type": "S",
+        "address": "3200 OLD BOYNTON RDBOYNTON",
+        "city": "BEACH",
+        "state": "Florida",
+        "phoneNumber": "(561) 742-0718",
+        "location": {
+            "latitude": 7.06222,
+            "longitude": -73.08644
+        }
+    },
+    {
+        "centerId": "3748",
+        "type": "S",
+        "address": "3826 COBB PKWY",
+        "city": "NWACWORTH",
+        "state": "Georgia",
+        "phoneNumber": "(770) 966-1226",
+        "location": {
+            "latitude": 34.048713,
+            "longitude": -84.698279
+        }
+    },
+    {
+        "centerId": "7194",
+        "type": "S",
+        "address": "351 ALABAMA",
+        "city": "RDADEL",
+        "state": "Georgia",
+        "phoneNumber": "(229) 896-9980",
+        "location": {
+            "latitude": 31.132973,
+            "longitude": -83.439934
+        }
+    },
+    {
+        "centerId": "588",
+        "type": "S",
+        "address": "2825 LEDO",
+        "city": "RDALBANY",
+        "state": "Georgia",
+        "phoneNumber": "(229) 889-9655",
+        "location": {
+            "latitude": 31.62469,
+            "longitude": -84.213728
+        }
+    },
+    {
+        "centerId": "2801",
+        "type": "S",
+        "address": "108 S WESTOVER",
+        "city": "BLVDALBANY",
+        "state": "Georgia",
+        "phoneNumber": "(229) 405-6804",
+        "location": {
+            "latitude": 31.58367,
+            "longitude": -84.218396
+        }
+    },
+    {
+        "centerId": "4517",
+        "type": "S",
+        "address": "2586 N SLAPPEY",
+        "city": "BLVDALBANY",
+        "state": "Georgia",
+        "phoneNumber": "(229) 405-7032",
+        "location": {
+            "latitude": 31.613422,
+            "longitude": -84.174017
+        }
+    },
+    {
+        "centerId": "5797",
+        "type": "S",
+        "address": "262 CORDELE",
+        "city": "RDALBANY",
+        "state": "Georgia",
+        "phoneNumber": "(229) 352-9332",
+        "location": {
+            "latitude": 31.579078,
+            "longitude": -84.086934
+        }
+    },
+    {
+        "centerId": "2941",
+        "type": "S",
+        "address": "5200 WINDWARD",
+        "city": "PKWYALPHARETTA",
+        "state": "Georgia",
+        "phoneNumber": "(770) 772-9033",
+        "location": {
+            "latitude": 44.736308,
+            "longitude": -73.126186
+        }
+    },
+    {
+        "centerId": "4436",
+        "type": "S",
+        "address": "5455 ATLANTA",
+        "city": "HWYALPHARETTA",
+        "state": "Georgia",
+        "phoneNumber": "(770) 475-4101",
+        "location": {
+            "latitude": 34.150277,
+            "longitude": -84.249404
+        }
+    },
+    {
+        "centerId": "758",
+        "type": "S",
+        "address": "1711 E LAMAR",
+        "city": "STAMERICUS",
+        "state": "Georgia",
+        "phoneNumber": "(229) 928-0653",
+        "location": {
+            "latitude": 32.060419,
+            "longitude": -84.201724
+        }
+    },
+    {
+        "centerId": "1400",
+        "type": "S",
+        "address": "1911 EPPS BRIDGE",
+        "city": "PKWYATHENS",
+        "state": "Georgia",
+        "phoneNumber": "(706) 549-1423",
+        "location": {
+            "latitude": 33.920051,
+            "longitude": -83.44518
+        }
+    },
+    {
+        "centerId": "2473",
+        "type": "S",
+        "address": "325 E MAKAALA",
+        "city": "STLOHI",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 961-9115",
+        "location": {
+            "latitude": 19.700248,
+            "longitude": -155.062545
+        }
+    },
+    {
+        "centerId": "3478",
+        "type": "S",
+        "address": "700 KEEAUMOKU",
+        "city": "STHONOLULU",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 955-8441",
+        "location": {
+            "latitude": 21.295027,
+            "longitude": -157.84254
+        }
+    },
+    {
+        "centerId": "3290",
+        "type": "S",
+        "address": "101 PAKAULA",
+        "city": "STKAHULUI",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 871-7820",
+        "location": {
+            "latitude": 20.877913,
+            "longitude": -156.455166
+        }
+    },
+    {
+        "centerId": "2321",
+        "type": "S",
+        "address": "75-1015 HENRY STKAILUA",
+        "city": "KONA",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 334-0466",
+        "location": {
+            "latitude": 19.663716,
+            "longitude": -155.943933
+        }
+    },
+    {
+        "centerId": "3883",
+        "type": "S",
+        "address": "91-600 FARRINGTON",
+        "city": "HWYKAPOLEI",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 206-9069",
+        "location": {
+            "latitude": 21.341833,
+            "longitude": -158.075316
+        }
+    },
+    {
+        "centerId": "2308",
+        "type": "S",
+        "address": "3-3300 KUO",
+        "city": "HWYLIHUEHI",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 246-1599",
+        "location": {
+            "latitude": 21.324144,
+            "longitude": -157.83122
+        }
+    },
+    {
+        "centerId": "2126",
+        "type": "S",
+        "address": "95-550 LANIKUHANA",
+        "city": "AVEMILILANI",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 623-6744",
+        "location": {
+            "latitude": 21.450578,
+            "longitude": -158.005766
+        }
+    },
+    {
+        "centerId": "5274",
+        "type": "S",
+        "address": "1131 KUALA STPEARL",
+        "city": "CITY",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 454-8785",
+        "location": {
+            "latitude": 16.1077,
+            "longitude": 120.514
+        }
+    },
+    {
+        "centerId": "2314",
+        "type": "S",
+        "address": "94-595 KUPUO",
+        "city": "STWAIPAHUHI",
+        "state": "Hawaii",
+        "phoneNumber": "(808) 688-0066",
+        "location": {
+            "latitude": 19.647634,
+            "longitude": -155.533256
+        }
+    },
+    {
+        "centerId": "2764",
+        "type": "S",
+        "address": "3501 8TH ST",
+        "city": "SWALTOONA",
+        "state": "Iowa",
+        "phoneNumber": "(515) 967-1711",
+        "location": {
+            "latitude": 43.113051,
+            "longitude": -94.695425
+        }
+    },
+    {
+        "centerId": "749",
+        "type": "S",
+        "address": "3105 GRAND",
+        "city": "AVEAMES",
+        "state": "Iowa",
+        "phoneNumber": "(515) 233-1345",
+        "location": {
+            "latitude": 42.053137,
+            "longitude": -93.621861
+        }
+    },
+    {
+        "centerId": "4256",
+        "type": "S",
+        "address": "534 S DUFF",
+        "city": "AVEAMES",
+        "state": "Iowa",
+        "phoneNumber": "(515) 956-3536",
+        "location": {
+            "latitude": 42.016152,
+            "longitude": -93.607053
+        }
+    },
+    {
+        "centerId": "646",
+        "type": "S",
+        "address": "101 115TH",
+        "city": "STANAMOSA",
+        "state": "Iowa",
+        "phoneNumber": "(319) 462-4311",
+        "location": {
+            "latitude": 42.101561,
+            "longitude": -91.265032
+        }
+    },
+    {
+        "centerId": "892",
+        "type": "S",
+        "address": "1002 SE NATIONAL",
+        "city": "DRANKENY",
+        "state": "Iowa",
+        "phoneNumber": "(515) 963-1111",
+        "location": {
+            "latitude": 41.705253,
+            "longitude": -93.585005
+        }
+    },
+    {
+        "centerId": "3394",
+        "type": "S",
+        "address": "1905 E 7TH",
+        "city": "STATLANTIC",
+        "state": "Iowa",
+        "phoneNumber": "(712) 243-5214",
+        "location": {
+            "latitude": 41.401583,
+            "longitude": -94.985991
+        }
+    },
+    {
+        "centerId": "1389",
+        "type": "S",
+        "address": "1515 SE MARSHALL",
+        "city": "STBOONE",
+        "state": "Iowa",
+        "phoneNumber": "(515) 432-2416",
+        "location": {
+            "latitude": 42.036464,
+            "longitude": -93.870223
+        }
+    },
+    {
+        "centerId": "1787",
+        "type": "S",
+        "address": "2014 KITTYHAWK",
+        "city": "RDCARROLL",
+        "state": "Iowa",
+        "phoneNumber": "(712) 792-2280",
+        "location": {
+            "latitude": 42.080225,
+            "longitude": -94.893306
+        }
+    },
+    {
+        "centerId": "753",
+        "type": "S",
+        "address": "525 BRANDILYNN BLVDCEDAR",
+        "city": "FALLS",
+        "state": "Iowa",
+        "phoneNumber": "(319) 277-6391",
+        "location": {
+            "latitude": 39.199668,
+            "longitude": -101.503246
+        }
+    },
+    {
+        "centerId": "1528",
+        "type": "S",
+        "address": "2645 BLAIRS FERRY RD NECEDAR",
+        "city": "RAPIDS",
+        "state": "Iowa",
+        "phoneNumber": "(319) 393-0444",
+        "location": {
+            "latitude": 42.031938,
+            "longitude": -91.68195
+        }
+    },
+    {
+        "centerId": "1902",
+        "type": "S",
+        "address": "1201 S 25TH",
+        "city": "EAMMON",
+        "state": "Idaho",
+        "phoneNumber": "(208) 522-0204",
+        "location": {
+            "latitude": 43.48685,
+            "longitude": -111.980728
+        }
+    },
+    {
+        "centerId": "1905",
+        "type": "S",
+        "address": "565 JENSEN GROVE",
+        "city": "DRBLACKFOOT",
+        "state": "Idaho",
+        "phoneNumber": "(208) 785-6937",
+        "location": {
+            "latitude": 43.198152,
+            "longitude": -112.357836
+        }
+    },
+    {
+        "centerId": "2508",
+        "type": "S",
+        "address": "8300 W OVERLAND",
+        "city": "RDBOISE",
+        "state": "Idaho",
+        "phoneNumber": "(208) 321-9077",
+        "location": {
+            "latitude": 43.590648,
+            "longitude": -116.272057
+        }
+    },
+    {
+        "centerId": "3094",
+        "type": "S",
+        "address": "3233 N COLE",
+        "city": "RDBOISE",
+        "state": "Idaho",
+        "phoneNumber": "(208) 501-7025",
+        "location": {
+            "latitude": 43.634362,
+            "longitude": -116.275833
+        }
+    },
+    {
+        "centerId": "1900",
+        "type": "S",
+        "address": "385 N OVERLAND",
+        "city": "AVEBURLEY",
+        "state": "Idaho",
+        "phoneNumber": "(208) 677-4709",
+        "location": {
+            "latitude": 48.339914,
+            "longitude": -102.346761
+        }
+    },
+    {
+        "centerId": "2780",
+        "type": "S",
+        "address": "5108 CLEVELAND",
+        "city": "BLVDCALDWELL",
+        "state": "Idaho",
+        "phoneNumber": "(208) 455-0066",
+        "location": {
+            "latitude": 48.339914,
+            "longitude": -102.346761
+        }
+    },
+    {
+        "centerId": "4494",
+        "type": "S",
+        "address": "622 E USTICK",
+        "city": "RDCALDWELL",
+        "state": "Idaho",
+        "phoneNumber": "(208) 454-5640",
+        "location": {
+            "latitude": 43.632349,
+            "longitude": -116.69118
+        }
+    },
+    {
+        "centerId": "1995",
+        "type": "S",
+        "address": "4240 YELLOWSTONE",
+        "city": "AVECHUBBUCK",
+        "state": "Idaho",
+        "phoneNumber": "(208) 237-5090",
+        "location": {
+            "latitude": 42.909839,
+            "longitude": -112.46357
+        }
+    },
+    {
+        "centerId": "2861",
+        "type": "S",
+        "address": "7319 W STATE STGARDEN",
+        "city": "CITY",
+        "state": "Idaho",
+        "phoneNumber": "(208) 853-0541",
+        "location": {
+            "latitude": 48.339914,
+            "longitude": -102.346761
+        }
+    },
+    {
+        "centerId": "3511",
+        "type": "S",
+        "address": "550 W HONEYSUCKLE",
+        "city": "AVEHAYDEN",
+        "state": "Idaho",
+        "phoneNumber": "(208) 209-4044",
+        "location": {
+            "latitude": 47.749083,
+            "longitude": -116.793356
+        }
+    },
+    {
+        "centerId": "5442",
+        "type": "S",
+        "address": "1050 N ROHLWING",
+        "city": "RDADDISON",
+        "state": "Illinois",
+        "phoneNumber": "(630) 889-1826",
+        "location": {
+            "latitude": 41.949583,
+            "longitude": -88.033631
+        }
+    },
+    {
+        "centerId": "792",
+        "type": "S",
+        "address": "1500 SE 5TH",
+        "city": "STALEDO",
+        "state": "Illinois",
+        "phoneNumber": "(309) 582-5617",
+        "location": {
+            "latitude": 41.198159,
+            "longitude": -90.731966
+        }
+    },
+    {
+        "centerId": "5060",
+        "type": "S",
+        "address": "1410 S RANDALL",
+        "city": "RDALGONQUIN",
+        "state": "Illinois",
+        "phoneNumber": "(847) 458-5620",
+        "location": {
+            "latitude": 42.155095,
+            "longitude": -88.339727
+        }
+    },
+    {
+        "centerId": "5199",
+        "type": "S",
+        "address": "475 E  ROUTE",
+        "city": "173ANTIOCHIL",
+        "state": "Illinois",
+        "phoneNumber": "(847) 838-2148",
+        "location": {
+            "latitude": 42.468716,
+            "longitude": -88.06455
+        }
+    },
+    {
+        "centerId": "4405",
+        "type": "S",
+        "address": "2900 KIRK",
+        "city": "RDAURORA",
+        "state": "Illinois",
+        "phoneNumber": "(630) 375-6207",
+        "location": {
+            "latitude": 41.815982,
+            "longitude": -88.283323
+        }
+    },
+    {
+        "centerId": "5352",
+        "type": "S",
+        "address": "801 N RANDALL",
+        "city": "RDBATAVIA",
+        "state": "Illinois",
+        "phoneNumber": "(630) 879-3970",
+        "location": {
+            "latitude": 41.772408,
+            "longitude": -88.349233
+        }
+    },
+    {
+        "centerId": "1451",
+        "type": "S",
+        "address": "100 LINCOLN",
+        "city": "AVEBEARDSTOWN",
+        "state": "Illinois",
+        "phoneNumber": "(217) 323-1340",
+        "location": {
+            "latitude": 39.244226,
+            "longitude": -88.163565
+        }
+    },
+    {
+        "centerId": "1938",
+        "type": "S",
+        "address": "7050 S CICERO AVEBEDFORD",
+        "city": "PARK",
+        "state": "Illinois",
+        "phoneNumber": "(708) 496-0230",
+        "location": {
+            "latitude": 37.799493,
+            "longitude": -97.405881
+        }
+    },
+    {
+        "centerId": "3597",
+        "type": "S",
+        "address": "2101 GATEWAY CENTER",
+        "city": "DRBELVIDERE",
+        "state": "Illinois",
+        "phoneNumber": "(815) 547-5447",
+        "location": {
+            "latitude": 42.239649,
+            "longitude": -88.817405
+        }
+    },
+    {
+        "centerId": "1553",
+        "type": "S",
+        "address": "314 WEST ARMY TRA",
+        "city": "ROADBLOOMINGDALEIL",
+        "state": "Illinois",
+        "phoneNumber": "(630) 893-5000",
+        "location": {
+            "latitude": 41.936988,
+            "longitude": -88.103152
+        }
+    },
+    {
+        "centerId": "1728",
+        "type": "S",
+        "address": "2321 CHARLES",
+        "city": "STANDERSON",
+        "state": "Indiana",
+        "phoneNumber": "(765) 642-5025",
+        "location": {
+            "latitude": 40.06506,
+            "longitude": -85.649901
+        }
+    },
+    {
+        "centerId": "1709",
+        "type": "S",
+        "address": "2016 N WAYNE",
+        "city": "STANGOLA",
+        "state": "Indiana",
+        "phoneNumber": "(260) 665-7313",
+        "location": {
+            "latitude": 41.661688,
+            "longitude": -84.995937
+        }
+    },
+    {
+        "centerId": "1570",
+        "type": "S",
+        "address": "505 TOURG",
+        "city": "DRAUBURNIN",
+        "state": "Indiana",
+        "phoneNumber": "(260) 925-8080",
+        "location": {
+            "latitude": 39.904493,
+            "longitude": -86.250281
+        }
+    },
+    {
+        "centerId": "1160",
+        "type": "S",
+        "address": "100 SYCAMORE ESTATES",
+        "city": "DRAURORA",
+        "state": "Indiana",
+        "phoneNumber": "(812) 926-4322",
+        "location": {
+            "latitude": 39.079927,
+            "longitude": -84.888751
+        }
+    },
+    {
+        "centerId": "2786",
+        "type": "S",
+        "address": "9500 E US HIGHWAY",
+        "city": "36AVON",
+        "state": "Indiana",
+        "phoneNumber": "(317) 209-0857",
+        "location": {
+            "latitude": 39.76573,
+            "longitude": -86.354426
+        }
+    },
+    {
+        "centerId": "1991",
+        "type": "S",
+        "address": "3313 W STATE RD",
+        "city": "45BLOOMGTONIN",
+        "state": "Indiana",
+        "phoneNumber": "(812) 337-0002",
+        "location": {
+            "latitude": 39.141948,
+            "longitude": -86.580202
+        }
+    },
+    {
+        "centerId": "2819",
+        "type": "S",
+        "address": "2100 N MA",
+        "city": "STBLUFFTONIN",
+        "state": "Indiana",
+        "phoneNumber": "(260) 824-0296",
+        "location": {
+            "latitude": -17.83899,
+            "longitude": -40.350934
+        }
+    },
+    {
+        "centerId": "2788",
+        "type": "S",
+        "address": "400 W NORTHFIELD",
+        "city": "DRBROWNSBURG",
+        "state": "Indiana",
+        "phoneNumber": "(317) 858-0206",
+        "location": {
+            "latitude": 39.858585,
+            "longitude": -86.396363
+        }
+    },
+    {
+        "centerId": "4417",
+        "type": "S",
+        "address": "8191 UPLAND",
+        "city": "BNDCAMBY",
+        "state": "Indiana",
+        "phoneNumber": "(317) 856-5748",
+        "location": {
+            "latitude": 39.642043,
+            "longitude": -86.328243
+        }
+    },
+    {
+        "centerId": "1601",
+        "type": "S",
+        "address": "2001 E 151ST",
+        "city": "STCARMEL",
+        "state": "Indiana",
+        "phoneNumber": "(317) 844-0096",
+        "location": {
+            "latitude": 40.006566,
+            "longitude": -86.124328
+        }
+    },
+    {
+        "centerId": "978",
+        "type": "S",
+        "address": "2701 N SUMMIT STARKANSAS",
+        "city": "CITY",
+        "state": "Kansas",
+        "phoneNumber": "(620) 442-2063",
+        "location": {
+            "latitude": 37.0902,
+            "longitude": -97.042658
+        }
+    },
+    {
+        "centerId": "346",
+        "type": "S",
+        "address": "719 W 7TH",
+        "city": "AVEAUGUSTA",
+        "state": "Kansas",
+        "phoneNumber": "(316) 775-2254",
+        "location": {
+            "latitude": 37.413776,
+            "longitude": -94.716703
+        }
+    },
+    {
+        "centerId": "486",
+        "type": "S",
+        "address": "12801 KANSAS AVEBONNER",
+        "city": "SPRINGS",
+        "state": "Kansas",
+        "phoneNumber": "(913) 441-6751",
+        "location": {
+            "latitude": 36.203941,
+            "longitude": -94.795681
+        }
+    },
+    {
+        "centerId": "111",
+        "type": "S",
+        "address": "2700 S SANTA FE",
+        "city": "AVECHANUTE",
+        "state": "Kansas",
+        "phoneNumber": "(620) 431-3077",
+        "location": {
+            "latitude": 37.653589,
+            "longitude": -95.451017
+        }
+    },
+    {
+        "centerId": "42",
+        "type": "S",
+        "address": "1863 CR",
+        "city": "5300COFFEYVILLE",
+        "state": "Kansas",
+        "phoneNumber": "(620) 251-4113",
+        "location": {
+            "latitude": 36.203941,
+            "longitude": -94.795681
+        }
+    },
+    {
+        "centerId": "1214",
+        "type": "S",
+        "address": "115 W WILLOW",
+        "city": "STCOLBY",
+        "state": "Kansas",
+        "phoneNumber": "(785) 462-8634",
+        "location": {
+            "latitude": 37.502587,
+            "longitude": -94.844833
+        }
+    },
+    {
+        "centerId": "1282",
+        "type": "S",
+        "address": "140 E COLLEGE",
+        "city": "DRCONCORDIA",
+        "state": "Kansas",
+        "phoneNumber": "(785) 243-2602",
+        "location": {
+            "latitude": 39.550762,
+            "longitude": -97.660163
+        }
+    },
+    {
+        "centerId": "592",
+        "type": "S",
+        "address": "2020 N NELSON",
+        "city": "DRDERBY",
+        "state": "Kansas",
+        "phoneNumber": "(316) 788-9400",
+        "location": {
+            "latitude": 37.569077,
+            "longitude": -97.27536
+        }
+    },
+    {
+        "centerId": "3155",
+        "type": "S",
+        "address": "1106 S ROCK",
+        "city": "RDDERBY",
+        "state": "Kansas",
+        "phoneNumber": "(316) 788-8333",
+        "location": {
+            "latitude": 37.532754,
+            "longitude": -97.242867
+        }
+    },
+    {
+        "centerId": "1961",
+        "type": "S",
+        "address": "6711 ALEXANDRIA",
+        "city": "PIKEALEXANDRIA",
+        "state": "Kentucky",
+        "phoneNumber": "(859) 635-8800",
+        "location": {
+            "latitude": 38.988125,
+            "longitude": -84.401435
+        }
+    },
+    {
+        "centerId": "1426",
+        "type": "S",
+        "address": "351 RIVER HILL",
+        "city": "DRASHLAND",
+        "state": "Kentucky",
+        "phoneNumber": "(606) 329-0012",
+        "location": {
+            "latitude": 38.485603,
+            "longitude": -82.658199
+        }
+    },
+    {
+        "centerId": "2638",
+        "type": "S",
+        "address": "12504 U.S. ROUTE",
+        "city": "60ASHLAND",
+        "state": "Kentucky",
+        "phoneNumber": "(606) 929-9510",
+        "location": {
+            "latitude": 39.105581,
+            "longitude": -95.423091
+        }
+    },
+    {
+        "centerId": "1189",
+        "type": "S",
+        "address": "301 PARKWAY",
+        "city": "PLZBARBOURVILLE",
+        "state": "Kentucky",
+        "phoneNumber": "(606) 546-5454",
+        "location": {
+            "latitude": 38.240531,
+            "longitude": -85.545031
+        }
+    },
+    {
+        "centerId": "729",
+        "type": "S",
+        "address": "3795 E JOHN ROWAN",
+        "city": "BLVDBARDSTOWN",
+        "state": "Kentucky",
+        "phoneNumber": "(502) 349-6007",
+        "location": {
+            "latitude": 37.799929,
+            "longitude": -85.436336
+        }
+    },
+    {
+        "centerId": "143",
+        "type": "S",
+        "address": "310 W 5TH",
+        "city": "STBENTON",
+        "state": "Kentucky",
+        "phoneNumber": "(270) 527-1605",
+        "location": {
+            "latitude": 36.869647,
+            "longitude": -88.360529
+        }
+    },
+    {
+        "centerId": "1190",
+        "type": "S",
+        "address": "120 JILL",
+        "city": "DRBEREA",
+        "state": "Kentucky",
+        "phoneNumber": "(859) 986-2324",
+        "location": {
+            "latitude": 37.565509,
+            "longitude": -84.312766
+        }
+    },
+    {
+        "centerId": "299",
+        "type": "S",
+        "address": "150 WALTON AVEBOWLING",
+        "city": "GREEN",
+        "state": "Kentucky",
+        "phoneNumber": "(270) 781-7903",
+        "location": {
+            "latitude": 38.14064,
+            "longitude": -83.07517
+        }
+    },
+    {
+        "centerId": "5236",
+        "type": "S",
+        "address": "1201 MORGANTOWN RDBOWLING",
+        "city": "GREEN",
+        "state": "Kentucky",
+        "phoneNumber": "(270) 780-9996",
+        "location": {
+            "latitude": 38.14064,
+            "longitude": -83.07517
+        }
+    },
+    {
+        "centerId": "665",
+        "type": "S",
+        "address": "725 CAMPBELLSVILLE",
+        "city": "BYPCAMPBELLSVILLE",
+        "state": "Kentucky",
+        "phoneNumber": "(270) 789-0707",
+        "location": {
+            "latitude": 37.345255,
+            "longitude": -85.373253
+        }
+    },
+    {
+        "centerId": "309",
+        "type": "S",
+        "address": "3005 CHARITY",
+        "city": "STREETABBEVILLE",
+        "state": "Louisiana",
+        "phoneNumber": "(337) 893-6485",
+        "location": {
+            "latitude": 29.972903,
+            "longitude": -92.094866
+        }
+    },
+    {
+        "centerId": "539",
+        "type": "S",
+        "address": "2050 N MALL",
+        "city": "DRALEXANDRIA",
+        "state": "Louisiana",
+        "phoneNumber": "(318) 445-2300",
+        "location": {
+            "latitude": 31.277866,
+            "longitude": -92.451636
+        }
+    },
+    {
+        "centerId": "3727",
+        "type": "S",
+        "address": "812 BELLEAU",
+        "city": "WOODALEXANDRIA",
+        "state": "Louisiana",
+        "phoneNumber": "(318) 625-3762",
+        "location": {
+            "latitude": 31.270914,
+            "longitude": -92.487231
+        }
+    },
+    {
+        "centerId": "4295",
+        "type": "S",
+        "address": "6225 COLISEUM",
+        "city": "BLVDALEXANDRIA",
+        "state": "Louisiana",
+        "phoneNumber": "(318) 448-8881",
+        "location": {
+            "latitude": 31.292001,
+            "longitude": -92.513688
+        }
+    },
+    {
+        "centerId": "3616",
+        "type": "S",
+        "address": "1200 W OAK",
+        "city": "STAMITE",
+        "state": "Louisiana",
+        "phoneNumber": "(985) 748-7707",
+        "location": {
+            "latitude": 30.729012,
+            "longitude": -90.529634
+        }
+    },
+    {
+        "centerId": "1102",
+        "type": "S",
+        "address": "14507 PNK",
+        "city": "RDBAKERLA",
+        "state": "Louisiana",
+        "phoneNumber": "(225) 774-2050",
+        "location": {
+            "latitude": 39.449754,
+            "longitude": -91.053735
+        }
+    },
+    {
+        "centerId": "98",
+        "type": "S",
+        "address": "6091 MER ROUGE",
+        "city": "RDBASTROP",
+        "state": "Louisiana",
+        "phoneNumber": "(318) 281-9384",
+        "location": {
+            "latitude": 32.775799,
+            "longitude": -91.870221
+        }
+    },
+    {
+        "centerId": "839",
+        "type": "S",
+        "address": "9350 CORTANA PLBATON",
+        "city": "ROUGE",
+        "state": "Louisiana",
+        "phoneNumber": "(225) 923-3400",
+        "location": {
+            "latitude": 39.449754,
+            "longitude": -91.053735
+        }
+    },
+    {
+        "centerId": "1206",
+        "type": "S",
+        "address": "3132 COLLEGE DRBATON",
+        "city": "ROUGE",
+        "state": "Louisiana",
+        "phoneNumber": "(225) 952-9022",
+        "location": {
+            "latitude": 39.449754,
+            "longitude": -91.053735
+        }
+    },
+    {
+        "centerId": "1266",
+        "type": "S",
+        "address": "2171 ONEAL LNBATON",
+        "city": "ROUGE",
+        "state": "Louisiana",
+        "phoneNumber": "(225) 751-3505",
+        "location": {
+            "latitude": 39.449754,
+            "longitude": -91.053735
+        }
+    },
+    {
+        "centerId": "2227",
+        "type": "S",
+        "address": "777 BROCKTON",
+        "city": "AVEABINGTON",
+        "state": "Massachusetts",
+        "phoneNumber": "(781) 857-2345",
+        "location": {
+            "latitude": 42.096285,
+            "longitude": -70.968621
+        }
+    },
+    {
+        "centerId": "2122",
+        "type": "S",
+        "address": "30 MEMORIAL",
+        "city": "DRAVON",
+        "state": "Massachusetts",
+        "phoneNumber": "(508) 427-9460",
+        "location": {
+            "latitude": 42.194139,
+            "longitude": -71.74649
+        }
+    },
+    {
+        "centerId": "1918",
+        "type": "S",
+        "address": "250 HARTFORD",
+        "city": "AVEBELLINGHAM",
+        "state": "Massachusetts",
+        "phoneNumber": "(508) 966-7633",
+        "location": {
+            "latitude": 42.116556,
+            "longitude": -71.462312
+        }
+    },
+    {
+        "centerId": "2904",
+        "type": "S",
+        "address": "700 OAK",
+        "city": "STBROCKTON",
+        "state": "Massachusetts",
+        "phoneNumber": "(508) 584-2333",
+        "location": {
+            "latitude": 42.098146,
+            "longitude": -71.056784
+        }
+    },
+    {
+        "centerId": "2903",
+        "type": "S",
+        "address": "66 PARKHURST",
+        "city": "RDCHELMSFORD",
+        "state": "Massachusetts",
+        "phoneNumber": "(978) 459-1818",
+        "location": {
+            "latitude": 42.26884,
+            "longitude": -70.954846
+        }
+    },
+    {
+        "centerId": "5278",
+        "type": "S",
+        "address": "591 MEMORIAL",
+        "city": "DRCHICOPEE",
+        "state": "Massachusetts",
+        "phoneNumber": "(413) 593-3192",
+        "location": {
+            "latitude": 42.172405,
+            "longitude": -72.573853
+        }
+    },
+    {
+        "centerId": "2180",
+        "type": "S",
+        "address": "55 BROOKSBY VILLAGE",
+        "city": "WAYDANVERS",
+        "state": "Massachusetts",
+        "phoneNumber": "(978) 777-6977",
+        "location": {
+            "latitude": 42.554429,
+            "longitude": -70.968217
+        }
+    },
+    {
+        "centerId": "1906",
+        "type": "S",
+        "address": "42 FAIRHAVEN COMMONS",
+        "city": "WAYFAIRHAVEN",
+        "state": "Massachusetts",
+        "phoneNumber": "(508) 993-8100",
+        "location": {
+            "latitude": 41.645123,
+            "longitude": -70.888307
+        }
+    },
+    {
+        "centerId": "3560",
+        "type": "S",
+        "address": "638 QUEQUECHAN STREETFALL",
+        "city": "RIVER",
+        "state": "Massachusetts",
+        "phoneNumber": "(508) 730-2677",
+        "location": {
+            "latitude": 42.358752,
+            "longitude": -71.531484
+        }
+    },
+    {
+        "centerId": "2902",
+        "type": "S",
+        "address": "121 WORCESTER",
+        "city": "RDFRAMINGHAM",
+        "state": "Massachusetts",
+        "phoneNumber": "(508) 872-6575",
+        "location": {
+            "latitude": 42.39068,
+            "longitude": -71.245
+        }
+    },
+    {
+        "centerId": "1968",
+        "type": "S",
+        "address": "645 S PHILADELPHIA",
+        "city": "BLVDABERDEEN",
+        "state": "Maryland",
+        "phoneNumber": "(410) 273-9200",
+        "location": {
+            "latitude": 39.49627,
+            "longitude": -76.17549
+        }
+    },
+    {
+        "centerId": "2009",
+        "type": "S",
+        "address": "401 CONSTANT FRIENDSHIP",
+        "city": "BLVDABINGDON",
+        "state": "Maryland",
+        "phoneNumber": "(410) 569-9403",
+        "location": {
+            "latitude": 39.462667,
+            "longitude": -76.314843
+        }
+    },
+    {
+        "centerId": "3720",
+        "type": "S",
+        "address": "3601 WASHINGTON",
+        "city": "BLVDARBUTUS",
+        "state": "Maryland",
+        "phoneNumber": "(410) 737-7700",
+        "location": {
+            "latitude": 39.248302,
+            "longitude": -76.667331
+        }
+    },
+    {
+        "centerId": "3481",
+        "type": "S",
+        "address": "112 CARROLL ISLAND",
+        "city": "RDBALTIMORE",
+        "state": "Maryland",
+        "phoneNumber": "(410) 335-5669",
+        "location": {
+            "latitude": 39.336639,
+            "longitude": -76.400992
+        }
+    },
+    {
+        "centerId": "3489",
+        "type": "S",
+        "address": "6420 PETRIE",
+        "city": "WAYBALTIMORE",
+        "state": "Maryland",
+        "phoneNumber": "(410) 687-4858",
+        "location": {
+            "latitude": 39.337429,
+            "longitude": -76.487945
+        }
+    },
+    {
+        "centerId": "2560",
+        "type": "S",
+        "address": "11416 OCEAN",
+        "city": "GTWYBERLIN",
+        "state": "Maryland",
+        "phoneNumber": "(410) 629-0502",
+        "location": {
+            "latitude": 38.339243,
+            "longitude": -75.162359
+        }
+    },
+    {
+        "centerId": "1893",
+        "type": "S",
+        "address": "3300 CRAIN",
+        "city": "HWYBOWIE",
+        "state": "Maryland",
+        "phoneNumber": "(301) 805-8850",
+        "location": {
+            "latitude": 38.935972,
+            "longitude": -76.719829
+        }
+    },
+    {
+        "centerId": "1981",
+        "type": "S",
+        "address": "45485 MIRAMAR",
+        "city": "WAYCALIFORNIA",
+        "state": "Maryland",
+        "phoneNumber": "(301) 737-4420",
+        "location": {
+            "latitude": 38.292736,
+            "longitude": -76.503001
+        }
+    },
+    {
+        "centerId": "2272",
+        "type": "S",
+        "address": "2775 DORCHESTER",
+        "city": "SQCAMBRIDGE",
+        "state": "Maryland",
+        "phoneNumber": "(410) 221-0292",
+        "location": {
+            "latitude": 38.554031,
+            "longitude": -76.05261
+        }
+    },
+    {
+        "centerId": "2248",
+        "type": "S",
+        "address": "6205 BALTIMORE NATIONAL",
+        "city": "PIKECATONSVILLE",
+        "state": "Maryland",
+        "phoneNumber": "(410) 719-0600",
+        "location": {
+            "latitude": 39.281759,
+            "longitude": -76.751185
+        }
+    },
+    {
+        "centerId": "1868",
+        "type": "S",
+        "address": "100 MOUNT AUBURN",
+        "city": "AVEAUBURN",
+        "state": "Maine",
+        "phoneNumber": "(207) 784-0738",
+        "location": {
+            "latitude": 44.117864,
+            "longitude": -70.238115
+        }
+    },
+    {
+        "centerId": "2046",
+        "type": "S",
+        "address": "201 CIVIC CENTER",
+        "city": "DRAUGUSTA",
+        "state": "Maine",
+        "phoneNumber": "(207) 623-8223",
+        "location": {
+            "latitude": 44.343201,
+            "longitude": -69.789987
+        }
+    },
+    {
+        "centerId": "1856",
+        "type": "S",
+        "address": "900 STILLWATER",
+        "city": "AVEBANGOR",
+        "state": "Maine",
+        "phoneNumber": "(207) 947-5254",
+        "location": {
+            "latitude": 44.840448,
+            "longitude": -68.749303
+        }
+    },
+    {
+        "centerId": "2153",
+        "type": "S",
+        "address": "50 BOULDER",
+        "city": "WAYBIDDEFORD",
+        "state": "Maine",
+        "phoneNumber": "(207) 286-9551",
+        "location": {
+            "latitude": 43.474442,
+            "longitude": -70.499606
+        }
+    },
+    {
+        "centerId": "5076",
+        "type": "S",
+        "address": "24 WALTON",
+        "city": "DRBREWER",
+        "state": "Maine",
+        "phoneNumber": "(207) 989-5068",
+        "location": {
+            "latitude": 44.774419,
+            "longitude": -68.73254
+        }
+    },
+    {
+        "centerId": "1939",
+        "type": "S",
+        "address": "15 TIBBETTS",
+        "city": "DRBRUNSWICK",
+        "state": "Maine",
+        "phoneNumber": "(207) 725-0773",
+        "location": {
+            "latitude": 44.316863,
+            "longitude": -69.806038
+        }
+    },
+    {
+        "centerId": "2178",
+        "type": "S",
+        "address": "379 SOUTH",
+        "city": "STCALAIS",
+        "state": "Maine",
+        "phoneNumber": "(207) 454-8178",
+        "location": {
+            "latitude": 43.495353,
+            "longitude": -70.49269
+        }
+    },
+    {
+        "centerId": "1932",
+        "type": "S",
+        "address": "17 MYRICK",
+        "city": "STELLSWORTH",
+        "state": "Maine",
+        "phoneNumber": "(207) 667-6780",
+        "location": {
+            "latitude": 44.52479,
+            "longitude": -68.392958
+        }
+    },
+    {
+        "centerId": "2659",
+        "type": "S",
+        "address": "206 US ROUTE",
+        "city": "1FALMOUTH",
+        "state": "Maine",
+        "phoneNumber": "(207) 781-3879",
+        "location": {
+            "latitude": 44.58366,
+            "longitude": -70.215706
+        }
+    },
+    {
+        "centerId": "1866",
+        "type": "S",
+        "address": "615 WILTON",
+        "city": "RDFARMINGTON",
+        "state": "Maine",
+        "phoneNumber": "(207) 778-5344",
+        "location": {
+            "latitude": 44.630522,
+            "longitude": -70.158809
+        }
+    },
+    {
+        "centerId": "1836",
+        "type": "S",
+        "address": "1601 E US HIGHWAY",
+        "city": "223ADRIAN",
+        "state": "Michigan",
+        "phoneNumber": "(517) 265-9771",
+        "location": {
+            "latitude": 41.727539,
+            "longitude": -86.874627
+        }
+    },
+    {
+        "centerId": "1422",
+        "type": "S",
+        "address": "7700 N ALGER",
+        "city": "RDALMA",
+        "state": "Michigan",
+        "phoneNumber": "(989) 463-6770",
+        "location": {
+            "latitude": 43.403229,
+            "longitude": -84.664265
+        }
+    },
+    {
+        "centerId": "2358",
+        "type": "S",
+        "address": "1180 M 32",
+        "city": "WALPENA",
+        "state": "Michigan",
+        "phoneNumber": "(989) 354-0830",
+        "location": {
+            "latitude": 45.064054,
+            "longitude": -83.476347
+        }
+    },
+    {
+        "centerId": "1592",
+        "type": "S",
+        "address": "901 N VAN DYKE RDBAD",
+        "city": "AXE",
+        "state": "Michigan",
+        "phoneNumber": "(989) 269-9506",
+        "location": {
+            "latitude": 42.493288,
+            "longitude": -83.036481
+        }
+    },
+    {
+        "centerId": "2080",
+        "type": "S",
+        "address": "6020 B DR NBATTLE",
+        "city": "CREEK",
+        "state": "Michigan",
+        "phoneNumber": "(269) 979-1628",
+        "location": {
+            "latitude": 41.727539,
+            "longitude": -86.874627
+        }
+    },
+    {
+        "centerId": "1752",
+        "type": "S",
+        "address": "3921 WILDER RDBAY",
+        "city": "CITY",
+        "state": "Michigan",
+        "phoneNumber": "(989) 684-0430",
+        "location": {
+            "latitude": 41.727539,
+            "longitude": -86.874627
+        }
+    },
+    {
+        "centerId": "2062",
+        "type": "S",
+        "address": "1400 MALL DRBENTON",
+        "city": "HARBOR",
+        "state": "Michigan",
+        "phoneNumber": "(269) 927-6025",
+        "location": {
+            "latitude": 42.077526,
+            "longitude": -86.425564
+        }
+    },
+    {
+        "centerId": "1719",
+        "type": "S",
+        "address": "21400 PERRY AVEBIG",
+        "city": "RAPIDS",
+        "state": "Michigan",
+        "phoneNumber": "(231) 796-1443",
+        "location": {
+            "latitude": 41.727539,
+            "longitude": -86.874627
+        }
+    },
+    {
+        "centerId": "2273",
+        "type": "S",
+        "address": "5323 E COURT ST",
+        "city": "NBURTON",
+        "state": "Michigan",
+        "phoneNumber": "(810) 744-9690",
+        "location": {
+            "latitude": 43.02223,
+            "longitude": -83.600956
+        }
+    },
+    {
+        "centerId": "1432",
+        "type": "S",
+        "address": "8917 E 34",
+        "city": "RDCADILLAC",
+        "state": "Michigan",
+        "phoneNumber": "(231) 775-8778",
+        "location": {
+            "latitude": 42.394092,
+            "longitude": -83.03774
+        }
+    },
+    {
+        "centerId": "1020",
+        "type": "S",
+        "address": "1550 BLAKE AVEALBERT",
+        "city": "LEA",
+        "state": "Minnesota",
+        "phoneNumber": "(507) 377-2998",
+        "location": {
+            "latitude": 48.850721,
+            "longitude": -102.184453
+        }
+    },
+    {
+        "centerId": "1632",
+        "type": "S",
+        "address": "4611 STATE HIGHWAY 29",
+        "city": "SALEXANDRIA",
+        "state": "Minnesota",
+        "phoneNumber": "(320) 762-8945",
+        "location": {
+            "latitude": 45.847561,
+            "longitude": -95.383042
+        }
+    },
+    {
+        "centerId": "1999",
+        "type": "S",
+        "address": "1851 BUNKER LAKE BLVD",
+        "city": "NWANDOVER",
+        "state": "Minnesota",
+        "phoneNumber": "(763) 354-1559",
+        "location": {
+            "latitude": 45.221275,
+            "longitude": -93.312472
+        }
+    },
+    {
+        "centerId": "2642",
+        "type": "S",
+        "address": "7835 150TH ST WAPPLE",
+        "city": "VALLEY",
+        "state": "Minnesota",
+        "phoneNumber": "(952) 431-9700",
+        "location": {
+            "latitude": 48.0923255,
+            "longitude": -95.8838143
+        }
+    },
+    {
+        "centerId": "4257",
+        "type": "S",
+        "address": "1000 18TH AVE",
+        "city": "NWAUSTIN",
+        "state": "Minnesota",
+        "phoneNumber": "(507) 434-8159",
+        "location": {
+            "latitude": 44.987973,
+            "longitude": -93.226636
+        }
+    },
+    {
+        "centerId": "1654",
+        "type": "S",
+        "address": "7295 GLORY",
+        "city": "RDBAXTER",
+        "state": "Minnesota",
+        "phoneNumber": "(218) 829-2220",
+        "location": {
+            "latitude": 46.344332,
+            "longitude": -94.24898
+        }
+    },
+    {
+        "centerId": "3233",
+        "type": "S",
+        "address": "2025 PAUL BUNYAN DR",
+        "city": "NWBEMIDJI",
+        "state": "Minnesota",
+        "phoneNumber": "(218) 755-6120",
+        "location": {
+            "latitude": 47.495427,
+            "longitude": -94.908745
+        }
+    },
+    {
+        "centerId": "3498",
+        "type": "S",
+        "address": "4369 BALL ROAD",
+        "city": "NEBLAINE",
+        "state": "Minnesota",
+        "phoneNumber": "(763) 784-0147",
+        "location": {
+            "latitude": 45.16012,
+            "longitude": -93.160494
+        }
+    },
+    {
+        "centerId": "5976",
+        "type": "S",
+        "address": "11505 ULYSSES ST",
+        "city": "NEBLAINE",
+        "state": "Minnesota",
+        "phoneNumber": "(763) 354-1979",
+        "location": {
+            "latitude": 45.179681,
+            "longitude": -93.236216
+        }
+    },
+    {
+        "centerId": "2198",
+        "type": "S",
+        "address": "700 AMERICAN BLVD",
+        "city": "EBLOOMINGTON",
+        "state": "Minnesota",
+        "phoneNumber": "(952) 854-5600",
+        "location": {
+            "latitude": 44.86083,
+            "longitude": -93.265225
+        }
+    },
+    {
+        "centerId": "1514",
+        "type": "S",
+        "address": "2201 MICHIGAN",
+        "city": "AVEARNOLD",
+        "state": "Missouri",
+        "phoneNumber": "(636) 282-0297",
+        "location": {
+            "latitude": 38.436991,
+            "longitude": -90.37765
+        }
+    },
+    {
+        "centerId": "92",
+        "type": "S",
+        "address": "3020 S ELLIOTT",
+        "city": "AVEAURORA",
+        "state": "Missouri",
+        "phoneNumber": "(417) 678-5800",
+        "location": {
+            "latitude": 36.946645,
+            "longitude": -93.715617
+        }
+    },
+    {
+        "centerId": "56",
+        "type": "S",
+        "address": "PO BOX",
+        "city": "517AVA",
+        "state": "Missouri",
+        "phoneNumber": "(417) 683-4194",
+        "location": {
+            "latitude": 37.825977,
+            "longitude": -93.995513
+        }
+    },
+    {
+        "centerId": "834",
+        "type": "S",
+        "address": "810 S 37TH",
+        "city": "STBETHANY",
+        "state": "Missouri",
+        "phoneNumber": "(660) 425-4410",
+        "location": {
+            "latitude": 40.262134,
+            "longitude": -94.017501
+        }
+    },
+    {
+        "centerId": "184",
+        "type": "S",
+        "address": "600 NE CORONADO DRBLUE",
+        "city": "SPRINGS",
+        "state": "Missouri",
+        "phoneNumber": "(816) 224-4800",
+        "location": {
+            "latitude": 36.383629,
+            "longitude": -94.214684
+        }
+    },
+    {
+        "centerId": "5149",
+        "type": "S",
+        "address": "1700 N 7 HWYBLUE",
+        "city": "SPRINGS",
+        "state": "Missouri",
+        "phoneNumber": "(816) 427-9020",
+        "location": {
+            "latitude": 36.383629,
+            "longitude": -94.214684
+        }
+    },
+    {
+        "centerId": "46",
+        "type": "S",
+        "address": "2451 S SPRINGFIELD",
+        "city": "AVEBOLIVAR",
+        "state": "Missouri",
+        "phoneNumber": "(417) 326-8424",
+        "location": {
+            "latitude": 37.592129,
+            "longitude": -93.403222
+        }
+    },
+    {
+        "centerId": "820",
+        "type": "S",
+        "address": "2150 MAIN",
+        "city": "STBOONVILLE",
+        "state": "Missouri",
+        "phoneNumber": "(660) 882-7422",
+        "location": {
+            "latitude": 38.951177,
+            "longitude": -92.740123
+        }
+    },
+    {
+        "centerId": "145",
+        "type": "S",
+        "address": "3 TOWN CENTER DRBOWLING",
+        "city": "GREEN",
+        "state": "Missouri",
+        "phoneNumber": "(573) 324-0040",
+        "location": {
+            "latitude": 40.357184,
+            "longitude": -95.118965
+        }
+    },
+    {
+        "centerId": "32",
+        "type": "S",
+        "address": "2050 W 76 COUNTRY",
+        "city": "BLVDBRANSON",
+        "state": "Missouri",
+        "phoneNumber": "(417) 334-5005",
+        "location": {
+            "latitude": 36.639089,
+            "longitude": -93.259762
+        }
+    },
+    {
+        "centerId": "118",
+        "type": "S",
+        "address": "1515 HIGHWAY 278",
+        "city": "EAMORY",
+        "state": "Mississippi",
+        "phoneNumber": "(662) 256-1590",
+        "location": {
+            "latitude": 33.968524,
+            "longitude": -88.456849
+        }
+    },
+    {
+        "centerId": "1468",
+        "type": "S",
+        "address": "205 HOUSE CARLSON",
+        "city": "DRBATESVILLE",
+        "state": "Mississippi",
+        "phoneNumber": "(662) 563-3100",
+        "location": {
+            "latitude": 34.307673,
+            "longitude": -89.916401
+        }
+    },
+    {
+        "centerId": "1088",
+        "type": "S",
+        "address": "2681 CT SWITZER SR",
+        "city": "DRBILOXI",
+        "state": "Mississippi",
+        "phoneNumber": "(228) 385-1046",
+        "location": {
+            "latitude": 30.392334,
+            "longitude": -88.995008
+        }
+    },
+    {
+        "centerId": "4586",
+        "type": "S",
+        "address": "1820-A POPPS FERRY",
+        "city": "RDBILOXI",
+        "state": "Mississippi",
+        "phoneNumber": "(228) 271-6082",
+        "location": {
+            "latitude": 30.442981,
+            "longitude": -88.944045
+        }
+    },
+    {
+        "centerId": "6849",
+        "type": "S",
+        "address": "2050 PASS",
+        "city": "ROADBILOXI",
+        "state": "Mississippi",
+        "phoneNumber": "(228) 271-6723",
+        "location": {
+            "latitude": 30.403846,
+            "longitude": -88.958542
+        }
+    },
+    {
+        "centerId": "114",
+        "type": "S",
+        "address": "300 WALMART",
+        "city": "CIRBOONEVILLE",
+        "state": "Mississippi",
+        "phoneNumber": "(662) 728-6211",
+        "location": {
+            "latitude": 34.677499,
+            "longitude": -88.564145
+        }
+    },
+    {
+        "centerId": "816",
+        "type": "S",
+        "address": "960 BROOKWAY",
+        "city": "BLVDBROOKHAVEN",
+        "state": "Mississippi",
+        "phoneNumber": "(601) 835-0232",
+        "location": {
+            "latitude": 31.581963,
+            "longitude": -90.46833
+        }
+    },
+    {
+        "centerId": "6469",
+        "type": "S",
+        "address": "131 HANDLEY",
+        "city": "BLVDBYRAM",
+        "state": "Mississippi",
+        "phoneNumber": "(769) 237-4314",
+        "location": {
+            "latitude": 32.185505,
+            "longitude": -90.264498
+        }
+    },
+    {
+        "centerId": "3059",
+        "type": "S",
+        "address": "244 FEATHER",
+        "city": "LNCANTON",
+        "state": "Mississippi",
+        "phoneNumber": "(601) 761-6000",
+        "location": {
+            "latitude": 32.595718,
+            "longitude": -90.073201
+        }
+    },
+    {
+        "centerId": "305",
+        "type": "S",
+        "address": "905 HIGHWAY 16",
+        "city": "WCARTHAGE",
+        "state": "Mississippi",
+        "phoneNumber": "(601) 267-8374",
+        "location": {
+            "latitude": 32.725878,
+            "longitude": -89.54721
+        }
+    },
+    {
+        "centerId": "1956",
+        "type": "S",
+        "address": "2525 KING AVE",
+        "city": "WBILLINGS",
+        "state": "Montana",
+        "phoneNumber": "(406) 652-9692",
+        "location": {
+            "latitude": 45.75761,
+            "longitude": -108.578497
+        }
+    },
+    {
+        "centerId": "2923",
+        "type": "S",
+        "address": "1649 MAIN",
+        "city": "STBILLINGS",
+        "state": "Montana",
+        "phoneNumber": "(406) 254-2842",
+        "location": {
+            "latitude": 45.829293,
+            "longitude": -108.468114
+        }
+    },
+    {
+        "centerId": "2084",
+        "type": "S",
+        "address": "1500 N 7TH",
+        "city": "AVEBOZEMAN",
+        "state": "Montana",
+        "phoneNumber": "(406) 585-8788",
+        "location": {
+            "latitude": 34.021087,
+            "longitude": -118.502886
+        }
+    },
+    {
+        "centerId": "1901",
+        "type": "S",
+        "address": "3901 HARRISON",
+        "city": "AVEBUTTE",
+        "state": "Montana",
+        "phoneNumber": "(406) 494-1420",
+        "location": {
+            "latitude": 45.96337,
+            "longitude": -112.508328
+        }
+    },
+    {
+        "centerId": "2455",
+        "type": "S",
+        "address": "701 SMELTER AVE NEGREAT",
+        "city": "FALLS",
+        "state": "Montana",
+        "phoneNumber": "(406) 761-5426",
+        "location": {
+            "latitude": 47.526247,
+            "longitude": -111.297276
+        }
+    },
+    {
+        "centerId": "7199",
+        "type": "S",
+        "address": "5320 10TH AVE SGREAT",
+        "city": "FALLS",
+        "state": "Montana",
+        "phoneNumber": "(406) 770-6083",
+        "location": {
+            "latitude": 47.491168,
+            "longitude": -111.219167
+        }
+    },
+    {
+        "centerId": "4247",
+        "type": "S",
+        "address": "3510 US HIGHWAY 2",
+        "city": "WHAVRE",
+        "state": "Montana",
+        "phoneNumber": "(406) 262-9162",
+        "location": {
+            "latitude": 48.554835,
+            "longitude": -109.737114
+        }
+    },
+    {
+        "centerId": "1872",
+        "type": "S",
+        "address": "2750 PROSPECT",
+        "city": "AVEHELENA",
+        "state": "Montana",
+        "phoneNumber": "(406) 443-3220",
+        "location": {
+            "latitude": 46.593553,
+            "longitude": -111.990865
+        }
+    },
+    {
+        "centerId": "2259",
+        "type": "S",
+        "address": "170 HUTTON RANCH",
+        "city": "RDKALISPELL",
+        "state": "Montana",
+        "phoneNumber": "(406) 257-7535",
+        "location": {
+            "latitude": 48.231746,
+            "longitude": -114.326206
+        }
+    },
+    {
+        "centerId": "4412",
+        "type": "S",
+        "address": "101 BERNHARDT",
+        "city": "RDLAUREL",
+        "state": "Montana",
+        "phoneNumber": "(406) 628-3000",
+        "location": {
+            "latitude": 45.667039,
+            "longitude": -108.759124
+        }
+    },
+    {
+        "centerId": "1097",
+        "type": "S",
+        "address": "250 TURNER",
+        "city": "STABERDEEN",
+        "state": "North Carolina",
+        "phoneNumber": "(910) 695-1255",
+        "location": {
+            "latitude": 35.159669,
+            "longitude": -79.424499
+        }
+    },
+    {
+        "centerId": "1950",
+        "type": "S",
+        "address": "2150 US 13",
+        "city": "SOUTHAHOSKIE",
+        "state": "North Carolina",
+        "phoneNumber": "(252) 332-7773",
+        "location": {
+            "latitude": 36.265253,
+            "longitude": -76.968647
+        }
+    },
+    {
+        "centerId": "1133",
+        "type": "S",
+        "address": "781 LEONARD",
+        "city": "AVEALBEMARLE",
+        "state": "North Carolina",
+        "phoneNumber": "(704) 983-6830",
+        "location": {
+            "latitude": 35.339965,
+            "longitude": -80.175903
+        }
+    },
+    {
+        "centerId": "3889",
+        "type": "S",
+        "address": "3151 APEX",
+        "city": "PEAKWAYAPEX",
+        "state": "North Carolina",
+        "phoneNumber": "(919) 362-3737",
+        "location": {
+            "latitude": 35.714856,
+            "longitude": -78.842792
+        }
+    },
+    {
+        "centerId": "7206",
+        "type": "S",
+        "address": "10250 S MAIN",
+        "city": "STARCHDALE",
+        "state": "North Carolina",
+        "phoneNumber": "(336) 804-6052",
+        "location": {
+            "latitude": 35.898079,
+            "longitude": -79.945902
+        }
+    },
+    {
+        "centerId": "1179",
+        "type": "S",
+        "address": "60 AIRPORT",
+        "city": "RDARDEN",
+        "state": "North Carolina",
+        "phoneNumber": "(828) 684-6864",
+        "location": {
+            "latitude": 35.456348,
+            "longitude": -82.522989
+        }
+    },
+    {
+        "centerId": "1132",
+        "type": "S",
+        "address": "1226 E DIXIE",
+        "city": "DRASHEBORO",
+        "state": "North Carolina",
+        "phoneNumber": "(336) 626-0004",
+        "location": {
+            "latitude": 35.692259,
+            "longitude": -79.789636
+        }
+    },
+    {
+        "centerId": "1317",
+        "type": "S",
+        "address": "125 BLEACHERY",
+        "city": "BLVDASHEVILLE",
+        "state": "North Carolina",
+        "phoneNumber": "(828) 298-8092",
+        "location": {
+            "latitude": 35.577243,
+            "longitude": -82.515951
+        }
+    },
+    {
+        "centerId": "4428",
+        "type": "S",
+        "address": "1636 HENDERSONVILLE",
+        "city": "RDASHEVILLE",
+        "state": "North Carolina",
+        "phoneNumber": "(828) 333-9505",
+        "location": {
+            "latitude": 35.512397,
+            "longitude": -82.524707
+        }
+    },
+    {
+        "centerId": "5085",
+        "type": "S",
+        "address": "701 HAWLEY",
+        "city": "AVEBELMONT",
+        "state": "North Carolina",
+        "phoneNumber": "(704) 825-8885",
+        "location": {
+            "latitude": 35.278438,
+            "longitude": -80.960871
+        }
+    },
+    {
+        "centerId": "3648",
+        "type": "S",
+        "address": "1400 SKYLINE",
+        "city": "BLVDBISMARCK",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 323-0530",
+        "location": {
+            "latitude": 37.937948,
+            "longitude": -107.81203
+        }
+    },
+    {
+        "centerId": "4569",
+        "type": "S",
+        "address": "912 11TH ST",
+        "city": "EBOTTINEAU",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 228-5276",
+        "location": {
+            "latitude": 37.937948,
+            "longitude": -107.81203
+        }
+    },
+    {
+        "centerId": "1695",
+        "type": "S",
+        "address": "1424 HWY 2 EDEVILS",
+        "city": "LAKE",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 662-5203",
+        "location": {
+            "latitude": 47.108964,
+            "longitude": -97.642077
+        }
+    },
+    {
+        "centerId": "1567",
+        "type": "S",
+        "address": "2456 3RD AVE",
+        "city": "WDICKINSON",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 225-8504",
+        "location": {
+            "latitude": 46.90793,
+            "longitude": -102.786633
+        }
+    },
+    {
+        "centerId": "1581",
+        "type": "S",
+        "address": "4731 13TH AVE",
+        "city": "SFARGO",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 281-3971",
+        "location": {
+            "latitude": 46.864635,
+            "longitude": -96.865725
+        }
+    },
+    {
+        "centerId": "4352",
+        "type": "S",
+        "address": "3757 55TH AVE",
+        "city": "SFARGO",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 526-1167",
+        "location": {
+            "latitude": 46.801605,
+            "longitude": -96.842214
+        }
+    },
+    {
+        "centerId": "1545",
+        "type": "S",
+        "address": "2551 32 AVE SGRAND",
+        "city": "FORKSND",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 746-7225",
+        "location": {
+            "latitude": 37.937948,
+            "longitude": -107.81203
+        }
+    },
+    {
+        "centerId": "5806",
+        "type": "S",
+        "address": "5755 GATEWAY DRGRA",
+        "city": "FORKSND",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 620-6003",
+        "location": {
+            "latitude": 37.937948,
+            "longitude": -107.81203
+        }
+    },
+    {
+        "centerId": "1649",
+        "type": "S",
+        "address": "921 25TH ST",
+        "city": "SWJAMESTOWN",
+        "state": "North Dakota",
+        "phoneNumber": "(701) 252-6778",
+        "location": {
+            "latitude": 46.88039,
+            "longitude": -98.722655
+        }
+    },
+    {
+        "centerId": "2784",
+        "type": "S",
+        "address": "3620 N 6TH",
+        "city": "STBEATRICE",
+        "state": "Nebraska",
+        "phoneNumber": "(402) 228-1244",
+        "location": {
+            "latitude": 40.303585,
+            "longitude": -96.744426
+        }
+    },
+    {
+        "centerId": "2847",
+        "type": "S",
+        "address": "10504 S 15TH",
+        "city": "STBELLEVUE",
+        "state": "Nebraska",
+        "phoneNumber": "(402) 292-0156",
+        "location": {
+            "latitude": 41.155284,
+            "longitude": -95.935977
+        }
+    },
+    {
+        "centerId": "3154",
+        "type": "S",
+        "address": "2109 TOW CENTER",
+        "city": "DRBELLEVUENE",
+        "state": "Nebraska",
+        "phoneNumber": "(402) 686-2040",
+        "location": {
+            "latitude": 40.678049,
+            "longitude": -95.859516
+        }
+    },
+    {
+        "centerId": "4568",
+        "type": "S",
+        "address": "1882 HOLLY",
+        "city": "STBLAIR",
+        "state": "Nebraska",
+        "phoneNumber": "(402) 533-8222",
+        "location": {
+            "latitude": 41.525992,
+            "longitude": -96.140968
+        }
+    },
+    {
+        "centerId": "2579",
+        "type": "S",
+        "address": "510 LINDEN",
+        "city": "STCHADRON",
+        "state": "Nebraska",
+        "phoneNumber": "(308) 432-6999",
+        "location": {
+            "latitude": 42.827152,
+            "longitude": -103.022119
+        }
+    },
+    {
+        "centerId": "774",
+        "type": "S",
+        "address": "818 E 23RD",
+        "city": "STCOLUMBUS",
+        "state": "Nebraska",
+        "phoneNumber": "(402) 564-1668",
+        "location": {
+            "latitude": 41.439937,
+            "longitude": -97.31753
+        }
+    },
+    {
+        "centerId": "4322",
+        "type": "S",
+        "address": "1800 E 29TH",
+        "city": "STCRETE",
+        "state": "Nebraska",
+        "phoneNumber": "(402) 826-1002",
+        "location": {
+            "latitude": 40.640626,
+            "longitude": -96.940129
+        }
+    },
+    {
+        "centerId": "418",
+        "type": "S",
+        "address": "2831 HIGHWAY",
+        "city": "15FAIRBURY",
+        "state": "Nebraska",
+        "phoneNumber": "(402) 729-3394",
+        "location": {
+            "latitude": 40.678049,
+            "longitude": -95.859516
+        }
+    },
+    {
+        "centerId": "1326",
+        "type": "S",
+        "address": "2250 N DIERS AVEGRAND",
+        "city": "ISLAND",
+        "state": "Nebraska",
+        "phoneNumber": "(308) 381-0333",
+        "location": {
+            "latitude": 40.659937,
+            "longitude": -96.961399
+        }
+    },
+    {
+        "centerId": "1796",
+        "type": "S",
+        "address": "85 STATE ROUTE",
+        "city": "101AAMHERST",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 672-3421",
+        "location": {
+            "latitude": 39.717131,
+            "longitude": -80.215365
+        }
+    },
+    {
+        "centerId": "1975",
+        "type": "S",
+        "address": "14 BOWEN",
+        "city": "STCLAREMONT",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 542-2703",
+        "location": {
+            "latitude": 43.377894,
+            "longitude": -72.329187
+        }
+    },
+    {
+        "centerId": "2055",
+        "type": "S",
+        "address": "344 LOUDON",
+        "city": "RDCONCORD",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 226-9312",
+        "location": {
+            "latitude": 43.227568,
+            "longitude": -71.480068
+        }
+    },
+    {
+        "centerId": "1753",
+        "type": "S",
+        "address": "11 ASHLEIGH",
+        "city": "DRIVEDERRY",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 434-3589",
+        "location": {
+            "latitude": 42.901819,
+            "longitude": -71.326194
+        }
+    },
+    {
+        "centerId": "3535",
+        "type": "S",
+        "address": "35 FRESH RIVER",
+        "city": "RDEPPING",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 679-5919",
+        "location": {
+            "latitude": 43.027237,
+            "longitude": -71.06832
+        }
+    },
+    {
+        "centerId": "2634",
+        "type": "S",
+        "address": "561 MAIN",
+        "city": "STGORHAM",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 752-4621",
+        "location": {
+            "latitude": 42.900541,
+            "longitude": -71.215798
+        }
+    },
+    {
+        "centerId": "1907",
+        "type": "S",
+        "address": "724 BRATTLEBORO",
+        "city": "RDHINSDALE",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 336-5538",
+        "location": {
+            "latitude": 42.813583,
+            "longitude": -72.530682
+        }
+    },
+    {
+        "centerId": "1698",
+        "type": "S",
+        "address": "3 COMMERCE",
+        "city": "DRHOOKSETT",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 644-8144",
+        "location": {
+            "latitude": 43.041044,
+            "longitude": -71.474702
+        }
+    },
+    {
+        "centerId": "1785",
+        "type": "S",
+        "address": "254 LOWELL",
+        "city": "RDHUDSON",
+        "state": "New Hampshire",
+        "phoneNumber": "(603) 598-4226",
+        "location": {
+            "latitude": 42.727274,
+            "longitude": -71.423035
+        }
+    },
+    {
+        "centerId": "5047",
+        "type": "S",
+        "address": "130 BLACK HORSE",
+        "city": "PIKEAUDUBON",
+        "state": "New Jersey",
+        "phoneNumber": "(856) 310-1470",
+        "location": {
+            "latitude": 39.892072,
+            "longitude": -75.084177
+        }
+    },
+    {
+        "centerId": "5867",
+        "type": "S",
+        "address": "500 BAYONNE CROSSING",
+        "city": "WAYBAYONNE",
+        "state": "New Jersey",
+        "phoneNumber": "(201) 620-6137",
+        "location": {
+            "latitude": 40.659995,
+            "longitude": -74.106691
+        }
+    },
+    {
+        "centerId": "1977",
+        "type": "S",
+        "address": "1872 ROUTE",
+        "city": "88BRICK",
+        "state": "New Jersey",
+        "phoneNumber": "(732) 840-7772",
+        "location": {
+            "latitude": 10.23333,
+            "longitude": -61.63333
+        }
+    },
+    {
+        "centerId": "5384",
+        "type": "S",
+        "address": "1130 HIGHWAY",
+        "city": "77BRIDGETON",
+        "state": "New Jersey",
+        "phoneNumber": "(856) 453-0418",
+        "location": {
+            "latitude": 39.66018,
+            "longitude": -75.360665
+        }
+    },
+    {
+        "centerId": "2040",
+        "type": "S",
+        "address": "2106 MOUNT HOLLY",
+        "city": "RDBURLINGTON",
+        "state": "New Jersey",
+        "phoneNumber": "(609) 386-8400",
+        "location": {
+            "latitude": 40.047651,
+            "longitude": -74.842908
+        }
+    },
+    {
+        "centerId": "3598",
+        "type": "S",
+        "address": "235 RIDGEDALE AVECEDAR",
+        "city": "KNOLLS",
+        "state": "New Jersey",
+        "phoneNumber": "(973) 889-8646",
+        "location": {
+            "latitude": 40.994296,
+            "longitude": -74.170506
+        }
+    },
+    {
+        "centerId": "2871",
+        "type": "S",
+        "address": "2501 ROUTE 130",
+        "city": "SCINNAMINSON",
+        "state": "New Jersey",
+        "phoneNumber": "(856) 303-2119",
+        "location": {
+            "latitude": 40.007715,
+            "longitude": -74.981126
+        }
+    },
+    {
+        "centerId": "2582",
+        "type": "S",
+        "address": "ROUTE 513 AND",
+        "city": "I78CLINTON",
+        "state": "New Jersey",
+        "phoneNumber": "(908) 730-8665",
+        "location": {
+            "latitude": 10.175563,
+            "longitude": -61.393607
+        }
+    },
+    {
+        "centerId": "1306",
+        "type": "S",
+        "address": "233 S NEW YORK",
+        "city": "AVEALAMOGORDO",
+        "state": "New Mexico",
+        "phoneNumber": "(575) 434-5870",
+        "location": {
+            "latitude": 32.887765,
+            "longitude": -105.957544
+        }
+    },
+    {
+        "centerId": "5726",
+        "type": "S",
+        "address": "2401 INDIAN WELLS",
+        "city": "ROADALAMOGORDO",
+        "state": "New Mexico",
+        "phoneNumber": "(575) 812-7045",
+        "location": {
+            "latitude": 32.916375,
+            "longitude": -105.930685
+        }
+    },
+    {
+        "centerId": "824",
+        "type": "S",
+        "address": "8000 ACADEMY RD",
+        "city": "NEALBUQUERQUE",
+        "state": "New Mexico",
+        "phoneNumber": "(505) 856-5274",
+        "location": {
+            "latitude": -30.73333,
+            "longitude": 150.6
+        }
+    },
+    {
+        "centerId": "835",
+        "type": "S",
+        "address": "400 EUBANK BLVD",
+        "city": "NEALBUQUERQUE",
+        "state": "New Mexico",
+        "phoneNumber": "(505) 293-8878",
+        "location": {
+            "latitude": -30.73333,
+            "longitude": 150.6
+        }
+    },
+    {
+        "centerId": "850",
+        "type": "S",
+        "address": "2701 CARLISLE BLVD",
+        "city": "NEALBUQUERQUE",
+        "state": "New Mexico",
+        "phoneNumber": "(505) 884-6650",
+        "location": {
+            "latitude": -30.73333,
+            "longitude": 150.6
+        }
+    },
+    {
+        "centerId": "1397",
+        "type": "S",
+        "address": "10224 COORS BYP",
+        "city": "NWALBUQUERQUE",
+        "state": "New Mexico",
+        "phoneNumber": "(505) 897-1228",
+        "location": {
+            "latitude": -30.73333,
+            "longitude": 150.6
+        }
+    },
+    {
+        "centerId": "2451",
+        "type": "S",
+        "address": "4700 CUTLER AVE",
+        "city": "NEALBUQUERQUE",
+        "state": "New Mexico",
+        "phoneNumber": "(505) 346-0702",
+        "location": {
+            "latitude": -30.73333,
+            "longitude": 150.6
+        }
+    },
+    {
+        "centerId": "1673",
+        "type": "S",
+        "address": "4238 RECREATION",
+        "city": "DRCANANDAIGUA",
+        "state": "New York",
+        "phoneNumber": "(585) 394-5300",
+        "location": {
+            "latitude": 42.87614,
+            "longitude": -77.239889
+        }
+    },
+    {
+        "centerId": "2351",
+        "type": "S",
+        "address": "PO BOX",
+        "city": "430CATSKILL",
+        "state": "New York",
+        "phoneNumber": "(518) 943-9423",
+        "location": {
+            "latitude": 40.68295,
+            "longitude": -73.9708
+        }
+    },
+    {
+        "centerId": "1911",
+        "type": "S",
+        "address": "2887 S ARLINGTON",
+        "city": "RDAKRON",
+        "state": "Ohio",
+        "phoneNumber": "(330) 645-9556",
+        "location": {
+            "latitude": 40.992298,
+            "longitude": -81.489867
+        }
+    },
+    {
+        "centerId": "2541",
+        "type": "S",
+        "address": "2700 W STATE",
+        "city": "STALLIANCE",
+        "state": "Ohio",
+        "phoneNumber": "(330) 821-0026",
+        "location": {
+            "latitude": 40.900614,
+            "longitude": -81.16088
+        }
+    },
+    {
+        "centerId": "1448",
+        "type": "S",
+        "address": "1996 E MAIN",
+        "city": "STASHLAND",
+        "state": "Ohio",
+        "phoneNumber": "(419) 281-9537",
+        "location": {
+            "latitude": 40.86101,
+            "longitude": -82.272111
+        }
+    },
+    {
+        "centerId": "2359",
+        "type": "S",
+        "address": "3551 N RIDGE RD",
+        "city": "EASHTABULA",
+        "state": "Ohio",
+        "phoneNumber": "(440) 998-4000",
+        "location": {
+            "latitude": 41.883168,
+            "longitude": -80.749567
+        }
+    },
+    {
+        "centerId": "3486",
+        "type": "S",
+        "address": "929 E STATE",
+        "city": "STATHENS",
+        "state": "Ohio",
+        "phoneNumber": "(740) 594-3398",
+        "location": {
+            "latitude": 40.900827,
+            "longitude": -80.848121
+        }
+    },
+    {
+        "centerId": "3250",
+        "type": "S",
+        "address": "7235 MARKET PLACE",
+        "city": "DRAURORA",
+        "state": "Ohio",
+        "phoneNumber": "(330) 562-0000",
+        "location": {
+            "latitude": 41.350055,
+            "longitude": -81.389908
+        }
+    },
+    {
+        "centerId": "2063",
+        "type": "S",
+        "address": "6001 MAHONING",
+        "city": "AVEAUSTINTOWN",
+        "state": "Ohio",
+        "phoneNumber": "(330) 270-0001",
+        "location": {
+            "latitude": 41.097913,
+            "longitude": -80.774066
+        }
+    },
+    {
+        "centerId": "5066",
+        "type": "S",
+        "address": "35901 CHESTER",
+        "city": "RDAVON",
+        "state": "Ohio",
+        "phoneNumber": "(440) 937-4750",
+        "location": {
+            "latitude": 41.466226,
+            "longitude": -82.015964
+        }
+    },
+    {
+        "centerId": "2124",
+        "type": "S",
+        "address": "3360 PENTAGON",
+        "city": "BLVDBEAVERCREEK",
+        "state": "Ohio",
+        "phoneNumber": "(937) 426-8227",
+        "location": {
+            "latitude": 37.987648,
+            "longitude": -87.401784
+        }
+    },
+    {
+        "centerId": "231",
+        "type": "S",
+        "address": "1419 N COUNTRY CLUB",
+        "city": "RDADA",
+        "state": "Oklahoma",
+        "phoneNumber": "(580) 332-2232",
+        "location": {
+            "latitude": 34.789127,
+            "longitude": -96.65614
+        }
+    },
+    {
+        "centerId": "479",
+        "type": "S",
+        "address": "2500 N MAIN",
+        "city": "STALTUS",
+        "state": "Oklahoma",
+        "phoneNumber": "(580) 482-8189",
+        "location": {
+            "latitude": 35.775825,
+            "longitude": -95.35799
+        }
+    },
+    {
+        "centerId": "178",
+        "type": "S",
+        "address": "914 E LAHOMA",
+        "city": "BLVDALVAOK",
+        "state": "Oklahoma",
+        "phoneNumber": "(580) 327-4021",
+        "location": {
+            "latitude": 35.205147,
+            "longitude": -97.452029
+        }
+    },
+    {
+        "centerId": "162",
+        "type": "S",
+        "address": "1201 W PETREE",
+        "city": "RDANADARKO",
+        "state": "Oklahoma",
+        "phoneNumber": "(405) 247-2535",
+        "location": {
+            "latitude": 35.060102,
+            "longitude": -98.262398
+        }
+    },
+    {
+        "centerId": "129",
+        "type": "S",
+        "address": "1715 N COMMERCE",
+        "city": "STARDMORE",
+        "state": "Oklahoma",
+        "phoneNumber": "(580) 226-1257",
+        "location": {
+            "latitude": 34.193489,
+            "longitude": -97.14535
+        }
+    },
+    {
+        "centerId": "232",
+        "type": "S",
+        "address": "1983 S MISSISSIPPI",
+        "city": "AVEATAOK",
+        "state": "Oklahoma",
+        "phoneNumber": "(580) 889-6676",
+        "location": {
+            "latitude": 34.366227,
+            "longitude": -96.142657
+        }
+    },
+    {
+        "centerId": "41",
+        "type": "S",
+        "address": "4000 SE GREEN COUNTRY",
+        "city": "RDBARTLESVILLE",
+        "state": "Oklahoma",
+        "phoneNumber": "(918) 335-6600",
+        "location": {
+            "latitude": 36.740405,
+            "longitude": -95.932293
+        }
+    },
+    {
+        "centerId": "136",
+        "type": "S",
+        "address": "1219 W DOOLIN",
+        "city": "AVEBLACKWELL",
+        "state": "Oklahoma",
+        "phoneNumber": "(580) 363-4111",
+        "location": {
+            "latitude": 36.762077,
+            "longitude": -101.689071
+        }
+    },
+    {
+        "centerId": "324",
+        "type": "S",
+        "address": "105 W HIGHWAY",
+        "city": "16BRISTOW",
+        "state": "Oklahoma",
+        "phoneNumber": "(918) 367-3335",
+        "location": {
+            "latitude": 35.844007,
+            "longitude": -96.394808
+        }
+    },
+    {
+        "centerId": "472",
+        "type": "S",
+        "address": "2301 W KENOSHA STBREN",
+        "city": "ARROWOK",
+        "state": "Oklahoma",
+        "phoneNumber": "(918) 259-9126",
+        "location": {
+            "latitude": 36.058235,
+            "longitude": -95.817318
+        }
+    },
+    {
+        "centerId": "5396",
+        "type": "S",
+        "address": "1330 GOLDFISH FARM RD",
+        "city": "SEALBANY",
+        "state": "Oregon",
+        "phoneNumber": "(541) 971-4052",
+        "location": {
+            "latitude": 44.627023,
+            "longitude": -123.051311
+        }
+    },
+    {
+        "centerId": "5993",
+        "type": "S",
+        "address": "17275 NW CNELL RDBEAVERTON",
+        "city": "CORNELLOR",
+        "state": "Oregon",
+        "phoneNumber": "(503) 207-7627",
+        "location": {
+            "latitude": 42.93203,
+            "longitude": -89.382329
+        }
+    },
+    {
+        "centerId": "2075",
+        "type": "S",
+        "address": "20120 PINEBROOK",
+        "city": "BLVDBEND",
+        "state": "Oregon",
+        "phoneNumber": "(541) 389-8184",
+        "location": {
+            "latitude": 42.93203,
+            "longitude": -89.382329
+        }
+    },
+    {
+        "centerId": "1880",
+        "type": "S",
+        "address": "2051 NEWMARK AVECOOS",
+        "city": "BAY",
+        "state": "Oregon",
+        "phoneNumber": "(541) 888-5488",
+        "location": {
+            "latitude": 43.389752,
+            "longitude": -124.2503
+        }
+    },
+    {
+        "centerId": "4221",
+        "type": "S",
+        "address": "220 N ADAIR",
+        "city": "STCNELIUSOR",
+        "state": "Oregon",
+        "phoneNumber": "(503) 207-0626",
+        "location": {
+            "latitude": 45.522062,
+            "longitude": -123.068767
+        }
+    },
+    {
+        "centerId": "3146",
+        "type": "S",
+        "address": "1840 NW 9TH",
+        "city": "STCVALLISOR",
+        "state": "Oregon",
+        "phoneNumber": "(541) 224-0036",
+        "location": {
+            "latitude": 42.93203,
+            "longitude": -89.382329
+        }
+    },
+    {
+        "centerId": "2320",
+        "type": "S",
+        "address": "901 ROW RIVER RDCOTTAGE",
+        "city": "GROVE",
+        "state": "Oregon",
+        "phoneNumber": "(541) 942-4600",
+        "location": {
+            "latitude": 42.93203,
+            "longitude": -89.382329
+        }
+    },
+    {
+        "centerId": "2315",
+        "type": "S",
+        "address": "321 NE KINGS VALLEY",
+        "city": "HWYDALLAS",
+        "state": "Oregon",
+        "phoneNumber": "(503) 623-0490",
+        "location": {
+            "latitude": 44.931417,
+            "longitude": -123.306995
+        }
+    },
+    {
+        "centerId": "5424",
+        "type": "S",
+        "address": "11500 HANNON RDEAGLE",
+        "city": "POINT",
+        "state": "Oregon",
+        "phoneNumber": "(541) 826-2210",
+        "location": {
+            "latitude": 43.854178,
+            "longitude": -120.526709
+        }
+    },
+    {
+        "centerId": "2641",
+        "type": "S",
+        "address": "1091 MILLCREEK",
+        "city": "RDALLENTOWN",
+        "state": "Pennsylvania",
+        "phoneNumber": "(610) 530-1400",
+        "location": {
+            "latitude": 40.55403,
+            "longitude": -75.578917
+        }
+    },
+    {
+        "centerId": "2049",
+        "type": "S",
+        "address": "2600 PLANK ROAD",
+        "city": "COMMALTOONA",
+        "state": "Pennsylvania",
+        "phoneNumber": "(814) 949-8980",
+        "location": {
+            "latitude": 40.455668,
+            "longitude": -78.405872
+        }
+    },
+    {
+        "centerId": "4643",
+        "type": "S",
+        "address": "1500 ECONOMY",
+        "city": "WAYBADEN",
+        "state": "Pennsylvania",
+        "phoneNumber": "(724) 390-9016",
+        "location": {
+            "latitude": 40.657885,
+            "longitude": -80.231688
+        }
+    },
+    {
+        "centerId": "3223",
+        "type": "S",
+        "address": "100 CHIPPEWA TOWN CTRBEAVER",
+        "city": "FALLS",
+        "state": "Pennsylvania",
+        "phoneNumber": "(724) 843-1100",
+        "location": {
+            "latitude": 40.167979,
+            "longitude": -74.780138
+        }
+    },
+    {
+        "centerId": "5239",
+        "type": "S",
+        "address": "567 ROUTE 100",
+        "city": "NBECHTELSVILLE",
+        "state": "Pennsylvania",
+        "phoneNumber": "(610) 367-1005",
+        "location": {
+            "latitude": 40.351682,
+            "longitude": -75.630189
+        }
+    },
+    {
+        "centerId": "2420",
+        "type": "S",
+        "address": "100 SARA WAYBELLE",
+        "city": "VERNON",
+        "state": "Pennsylvania",
+        "phoneNumber": "(724) 929-2424",
+        "location": {
+            "latitude": 41.624349,
+            "longitude": -80.217739
+        }
+    },
+    {
+        "centerId": "5381",
+        "type": "S",
+        "address": "5055 LIBRARY RDBETHEL",
+        "city": "RKPA",
+        "state": "Pennsylvania",
+        "phoneNumber": "(412) 831-0459",
+        "location": {
+            "latitude": 40.260574,
+            "longitude": -89.771338
+        }
+    },
+    {
+        "centerId": "3563",
+        "type": "S",
+        "address": "3926 LINDEN",
+        "city": "STBETHLEHEM",
+        "state": "Pennsylvania",
+        "phoneNumber": "(610) 867-1300",
+        "location": {
+            "latitude": 40.644382,
+            "longitude": -75.319246
+        }
+    },
+    {
+        "centerId": "5356",
+        "type": "S",
+        "address": "300 RESORT PLAZA",
+        "city": "DRBLAIRSVILLE",
+        "state": "Pennsylvania",
+        "phoneNumber": "(724) 459-3349",
+        "location": {
+            "latitude": 40.442589,
+            "longitude": -79.226838
+        }
+    },
+    {
+        "centerId": "1794",
+        "type": "S",
+        "address": "100 LUNGER",
+        "city": "DRBLOOMSBURG",
+        "state": "Pennsylvania",
+        "phoneNumber": "(570) 389-5750",
+        "location": {
+            "latitude": 41.009454,
+            "longitude": -76.485273
+        }
+    },
+    {
+        "centerId": "2283",
+        "type": "S",
+        "address": "650 CENTRE OF NEW ENGLAND",
+        "city": "BLVDCOVENTRY",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 823-7780",
+        "location": {
+            "latitude": 42.701762,
+            "longitude": -75.836926
+        }
+    },
+    {
+        "centerId": "1873",
+        "type": "S",
+        "address": "1776 PLAINFIELD",
+        "city": "PIKECRANSTON",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 946-2030",
+        "location": {
+            "latitude": 41.789155,
+            "longitude": -71.498563
+        }
+    },
+    {
+        "centerId": "2885",
+        "type": "S",
+        "address": "199 CONNELL",
+        "city": "HWYNEWPORT",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 848-5167",
+        "location": {
+            "latitude": 31.81544,
+            "longitude": -96.23136
+        }
+    },
+    {
+        "centerId": "2261",
+        "type": "S",
+        "address": "1031 TEN ROD RDNORTH",
+        "city": "KINGSTOWN",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 294-0025",
+        "location": {
+            "latitude": 31.81544,
+            "longitude": -96.23136
+        }
+    },
+    {
+        "centerId": "2225",
+        "type": "S",
+        "address": "7 DOWLING VILLAGE BLVDNORTH",
+        "city": "SMITHFIELD",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 766-1961",
+        "location": {
+            "latitude": 41.92204,
+            "longitude": -71.54951
+        }
+    },
+    {
+        "centerId": "3301",
+        "type": "S",
+        "address": "51 SILVER SPNG",
+        "city": "STPROVIDENCERI",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 272-5047",
+        "location": {
+            "latitude": 41.845446,
+            "longitude": -71.416785
+        }
+    },
+    {
+        "centerId": "2373",
+        "type": "S",
+        "address": "840 POST",
+        "city": "RDWARWICK",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 781-2233",
+        "location": {
+            "latitude": 41.752657,
+            "longitude": -71.414249
+        }
+    },
+    {
+        "centerId": "2747",
+        "type": "S",
+        "address": "650 BALD HILL",
+        "city": "RDWARWICK",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 821-1766",
+        "location": {
+            "latitude": 41.721722,
+            "longitude": -71.48085
+        }
+    },
+    {
+        "centerId": "1964",
+        "type": "S",
+        "address": "258 POST",
+        "city": "RDWESTERLY",
+        "state": "Rhode Island",
+        "phoneNumber": "(401) 322-0790",
+        "location": {
+            "latitude": 31.81544,
+            "longitude": -96.23136
+        }
+    },
+    {
+        "centerId": "514",
+        "type": "S",
+        "address": "2035 WHISKEY",
+        "city": "RDAIKEN",
+        "state": "South Carolina",
+        "phoneNumber": "(803) 648-9197",
+        "location": {
+            "latitude": 33.518149,
+            "longitude": -81.719334
+        }
+    },
+    {
+        "centerId": "4487",
+        "type": "S",
+        "address": "3581 RICHLAND AVE",
+        "city": "WAIKEN",
+        "state": "South Carolina",
+        "phoneNumber": "(803) 648-5551",
+        "location": {
+            "latitude": 33.561327,
+            "longitude": -81.767249
+        }
+    },
+    {
+        "centerId": "396",
+        "type": "S",
+        "address": "3812 LIBERTY",
+        "city": "HWYANDERSON",
+        "state": "South Carolina",
+        "phoneNumber": "(864) 225-1800",
+        "location": {
+            "latitude": 34.555095,
+            "longitude": -82.676581
+        }
+    },
+    {
+        "centerId": "644",
+        "type": "S",
+        "address": "651 HIGHWAY 28",
+        "city": "BYPANDERSON",
+        "state": "South Carolina",
+        "phoneNumber": "(864) 261-7420",
+        "location": {
+            "latitude": 34.488204,
+            "longitude": -82.677691
+        }
+    },
+    {
+        "centerId": "4443",
+        "type": "S",
+        "address": "2003 E GREENVILLE",
+        "city": "STANDERSON",
+        "state": "South Carolina",
+        "phoneNumber": "(864) 760-6161",
+        "location": {
+            "latitude": 34.545194,
+            "longitude": -82.632796
+        }
+    },
+    {
+        "centerId": "1383",
+        "type": "S",
+        "address": "350 ROBERT SMALLS",
+        "city": "PKWYBEAUFORT",
+        "state": "South Carolina",
+        "phoneNumber": "(843) 522-8221",
+        "location": {
+            "latitude": 32.425236,
+            "longitude": -80.733977
+        }
+    },
+    {
+        "centerId": "7181",
+        "type": "S",
+        "address": "265 SEA ISLAND",
+        "city": "PKWYBEAUFORT",
+        "state": "South Carolina",
+        "phoneNumber": "(843) 489-3216",
+        "location": {
+            "latitude": 32.407601,
+            "longitude": -80.633018
+        }
+    },
+    {
+        "centerId": "4457",
+        "type": "S",
+        "address": "1250 BENNETTSVILLE",
+        "city": "SQBENNETTSVILLE",
+        "state": "South Carolina",
+        "phoneNumber": "(843) 479-0002",
+        "location": {
+            "latitude": 34.638867,
+            "longitude": -79.704246
+        }
+    },
+    {
+        "centerId": "6395",
+        "type": "S",
+        "address": "4 BLUFFTON",
+        "city": "RDBLUFFTON",
+        "state": "South Carolina",
+        "phoneNumber": "(843) 815-5159",
+        "location": {
+            "latitude": 32.25974,
+            "longitude": -80.854278
+        }
+    },
+    {
+        "centerId": "1520",
+        "type": "S",
+        "address": "3820 7TH AVE",
+        "city": "SEABERDEEN",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 229-2345",
+        "location": {
+            "latitude": 45.458259,
+            "longitude": -98.437954
+        }
+    },
+    {
+        "centerId": "1538",
+        "type": "S",
+        "address": "2233 6TH",
+        "city": "ST.BROOKINGS",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 692-6332",
+        "location": {
+            "latitude": 44.3113617,
+            "longitude": -96.7980469
+        }
+    },
+    {
+        "centerId": "3853",
+        "type": "S",
+        "address": "2791 DAKOTA AVE",
+        "city": "SHURON",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 353-0891",
+        "location": {
+            "latitude": 44.332914,
+            "longitude": -98.217242
+        }
+    },
+    {
+        "centerId": "2990",
+        "type": "S",
+        "address": "1101 E SPRUCE",
+        "city": "STMITCHELL",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 995-6840",
+        "location": {
+            "latitude": 43.685351,
+            "longitude": -98.009872
+        }
+    },
+    {
+        "centerId": "1685",
+        "type": "S",
+        "address": "1730 N GARFIELD",
+        "city": "AVEPIERRE",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 224-8830",
+        "location": {
+            "latitude": 44.380449,
+            "longitude": -100.311455
+        }
+    },
+    {
+        "centerId": "1604",
+        "type": "S",
+        "address": "1200 N LACROSSE STRAPID",
+        "city": "CITY",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 342-9444",
+        "location": {
+            "latitude": 37.937948,
+            "longitude": -107.81203
+        }
+    },
+    {
+        "centerId": "3872",
+        "type": "S",
+        "address": "100 STUMER RDRAPID",
+        "city": "CITY",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 877-3291",
+        "location": {
+            "latitude": 37.937948,
+            "longitude": -107.81203
+        }
+    },
+    {
+        "centerId": "1535",
+        "type": "S",
+        "address": "3209 S LOUISE AVESIOUX",
+        "city": "FALLS",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 362-1002",
+        "location": {
+            "latitude": 44.470716,
+            "longitude": -100.229958
+        }
+    },
+    {
+        "centerId": "2443",
+        "type": "S",
+        "address": "7821 S MINNESOTA AVESIOUX",
+        "city": "FALLS",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 338-9873",
+        "location": {
+            "latitude": 44.470716,
+            "longitude": -100.229958
+        }
+    },
+    {
+        "centerId": "3237",
+        "type": "S",
+        "address": "5521 E ARROWHEAD PKWYSIOUX",
+        "city": "FALLS",
+        "state": "South Dakota",
+        "phoneNumber": "(605) 367-3140",
+        "location": {
+            "latitude": 44.470716,
+            "longitude": -100.229958
+        }
+    },
+    {
+        "centerId": "672",
+        "type": "S",
+        "address": "1030 HUNTERS",
+        "city": "XINGALCOA",
+        "state": "Tennessee",
+        "phoneNumber": "(865) 984-1099",
+        "location": {
+            "latitude": 35.771241,
+            "longitude": -83.991555
+        }
+    },
+    {
+        "centerId": "5175",
+        "type": "S",
+        "address": "589 W MAIN",
+        "city": "STALGOOD",
+        "state": "Tennessee",
+        "phoneNumber": "(931) 537-3880",
+        "location": {
+            "latitude": 36.185629,
+            "longitude": -85.459253
+        }
+    },
+    {
+        "centerId": "5058",
+        "type": "S",
+        "address": "3035 HAMILTON CHURCH",
+        "city": "RDANTIOCH",
+        "state": "Tennessee",
+        "phoneNumber": "(615) 360-2228",
+        "location": {
+            "latitude": 36.06107,
+            "longitude": -86.628468
+        }
+    },
+    {
+        "centerId": "1226",
+        "type": "S",
+        "address": "1626 HIGHWAY 12 SASHLAND",
+        "city": "CITY",
+        "state": "Tennessee",
+        "phoneNumber": "(615) 792-7782",
+        "location": {
+            "latitude": 36.247875,
+            "longitude": -87.032624
+        }
+    },
+    {
+        "centerId": "663",
+        "type": "S",
+        "address": "1815 DECATUR",
+        "city": "PIKEATHENS",
+        "state": "Tennessee",
+        "phoneNumber": "(423) 745-0395",
+        "location": {
+            "latitude": 35.452787,
+            "longitude": -84.631495
+        }
+    },
+    {
+        "centerId": "950",
+        "type": "S",
+        "address": "8400 US HIGHWAY",
+        "city": "64BARTLETT",
+        "state": "Tennessee",
+        "phoneNumber": "(901) 382-6101",
+        "location": {
+            "latitude": 36.889216,
+            "longitude": -85.420989
+        }
+    },
+    {
+        "centerId": "3599",
+        "type": "S",
+        "address": "6520 MEMPHIS ARLINGTON",
+        "city": "RDBARTLETT",
+        "state": "Tennessee",
+        "phoneNumber": "(901) 388-1004",
+        "location": {
+            "latitude": 35.227886,
+            "longitude": -89.847102
+        }
+    },
+    {
+        "centerId": "466",
+        "type": "S",
+        "address": "1604 W MARKET",
+        "city": "STBOLIVAR",
+        "state": "Tennessee",
+        "phoneNumber": "(731) 658-7794",
+        "location": {
+            "latitude": 35.279587,
+            "longitude": -89.02468
+        }
+    },
+    {
+        "centerId": "620",
+        "type": "S",
+        "address": "220 CENTURY",
+        "city": "BLVDBRISTOL",
+        "state": "Tennessee",
+        "phoneNumber": "(423) 968-2777",
+        "location": {
+            "latitude": 36.544963,
+            "longitude": -82.234641
+        }
+    },
+    {
+        "centerId": "64",
+        "type": "S",
+        "address": "1100 S DUPREE",
+        "city": "AVEBROWNSVILLE",
+        "state": "Tennessee",
+        "phoneNumber": "(731) 772-9551",
+        "location": {
+            "latitude": 35.586308,
+            "longitude": -89.238637
+        }
+    },
+    {
+        "centerId": "536",
+        "type": "S",
+        "address": "1650 STATE HIGHWAY",
+        "city": "351ABILENE",
+        "state": "Texas",
+        "phoneNumber": "(325) 677-5584",
+        "location": {
+            "latitude": 42.201252,
+            "longitude": -85.706668
+        }
+    },
+    {
+        "centerId": "5715",
+        "type": "S",
+        "address": "1619 AMBLER",
+        "city": "AVEABILENE",
+        "state": "Texas",
+        "phoneNumber": "(325) 670-9014",
+        "location": {
+            "latitude": 32.473376,
+            "longitude": -99.738423
+        }
+    },
+    {
+        "centerId": "5165",
+        "type": "S",
+        "address": "1421 FRONTAGE",
+        "city": "RDALAMO",
+        "state": "Texas",
+        "phoneNumber": "(956) 782-0034",
+        "location": {
+            "latitude": 26.191058,
+            "longitude": -98.131301
+        }
+    },
+    {
+        "centerId": "791",
+        "type": "S",
+        "address": "2701 E MAIN",
+        "city": "STALICE",
+        "state": "Texas",
+        "phoneNumber": "(361) 668-0441",
+        "location": {
+            "latitude": 31.43496,
+            "longitude": -97.719988
+        }
+    },
+    {
+        "centerId": "2918",
+        "type": "S",
+        "address": "730 W EXCHANGE",
+        "city": "PKWYALLEN",
+        "state": "Texas",
+        "phoneNumber": "(972) 649-0356",
+        "location": {
+            "latitude": 33.119598,
+            "longitude": -96.672027
+        }
+    },
+    {
+        "centerId": "3574",
+        "type": "S",
+        "address": "1520 E EXCHANGE",
+        "city": "PKWYALLEN",
+        "state": "Texas",
+        "phoneNumber": "(214) 547-8579",
+        "location": {
+            "latitude": 33.113855,
+            "longitude": -96.629655
+        }
+    },
+    {
+        "centerId": "462",
+        "type": "S",
+        "address": "400 HIGHWAY 35 BYP",
+        "city": "NALVIN",
+        "state": "Texas",
+        "phoneNumber": "(281) 585-2825",
+        "location": {
+            "latitude": 29.421872,
+            "longitude": -95.230641
+        }
+    },
+    {
+        "centerId": "755",
+        "type": "S",
+        "address": "4610 S COULTER",
+        "city": "STAMARILLO",
+        "state": "Texas",
+        "phoneNumber": "(806) 354-9300",
+        "location": {
+            "latitude": 35.159697,
+            "longitude": -101.923537
+        }
+    },
+    {
+        "centerId": "822",
+        "type": "S",
+        "address": "3700 E INTERSTATE",
+        "city": "40AMARILLO",
+        "state": "Texas",
+        "phoneNumber": "(806) 342-3030",
+        "location": {
+            "latitude": 42.201252,
+            "longitude": -85.706668
+        }
+    },
+    {
+        "centerId": "2511",
+        "type": "S",
+        "address": "949 W GRASSLAND DRAMERICAN",
+        "city": "FORK",
+        "state": "Utah",
+        "phoneNumber": "(801) 492-1102",
+        "location": {
+            "latitude": -4.63645,
+            "longitude": 145.01822
+        }
+    },
+    {
+        "centerId": "1438",
+        "type": "S",
+        "address": "1330 S PROVIDENCE CENTER DRCEDAR",
+        "city": "CITY",
+        "state": "Utah",
+        "phoneNumber": "(435) 586-0172",
+        "location": {
+            "latitude": 40.233322,
+            "longitude": -111.661962
+        }
+    },
+    {
+        "centerId": "4689",
+        "type": "S",
+        "address": "4689 W CEDAR  DRCEDAR HILLS",
+        "city": "HILLS",
+        "state": "Utah",
+        "phoneNumber": "(801) 756-2372",
+        "location": {
+            "latitude": -4.63645,
+            "longitude": 145.01822
+        }
+    },
+    {
+        "centerId": "3366",
+        "type": "S",
+        "address": "221 W PARRISH",
+        "city": "LNCENTERVILLE",
+        "state": "Utah",
+        "phoneNumber": "(801) 294-0587",
+        "location": {
+            "latitude": 40.919547,
+            "longitude": -111.883708
+        }
+    },
+    {
+        "centerId": "5234",
+        "type": "S",
+        "address": "1632 N 2000",
+        "city": "WCLINTON",
+        "state": "Utah",
+        "phoneNumber": "(801) 779-3165",
+        "location": {
+            "latitude": 41.137487,
+            "longitude": -112.061676
+        }
+    },
+    {
+        "centerId": "5110",
+        "type": "S",
+        "address": "1360 DRAPER",
+        "city": "PKWYDRAPER",
+        "state": "Utah",
+        "phoneNumber": "(801) 816-0838",
+        "location": {
+            "latitude": 40.526699,
+            "longitude": -111.852476
+        }
+    },
+    {
+        "centerId": "2794",
+        "type": "S",
+        "address": "777 N MAIN",
+        "city": "STEPHRAIM",
+        "state": "Utah",
+        "phoneNumber": "(435) 283-8189",
+        "location": {
+            "latitude": 39.373828,
+            "longitude": -111.589833
+        }
+    },
+    {
+        "centerId": "2921",
+        "type": "S",
+        "address": "534 N HARRISVILLE",
+        "city": "RDHARRISVILLE",
+        "state": "Utah",
+        "phoneNumber": "(801) 737-0092",
+        "location": {
+            "latitude": 41.2691,
+            "longitude": -111.973089
+        }
+    },
+    {
+        "centerId": "4696",
+        "type": "S",
+        "address": "1274 S US HIGHWAY 189HEBER",
+        "city": "CITY",
+        "state": "Utah",
+        "phoneNumber": "(435) 709-3015",
+        "location": {
+            "latitude": 40.233322,
+            "longitude": -111.661962
+        }
+    },
+    {
+        "centerId": "7168",
+        "type": "S",
+        "address": "5056 W 13400",
+        "city": "SHERRIMAN",
+        "state": "Utah",
+        "phoneNumber": "(801) 981-1675",
+        "location": {
+            "latitude": 40.554999,
+            "longitude": -112.011443
+        }
+    },
+    {
+        "centerId": "154",
+        "type": "S",
+        "address": "16032 FIFTEEN MILE",
+        "city": "BOULERDABINGDONVA",
+        "state": "Virginia",
+        "phoneNumber": "(276) 619-4843",
+        "location": {
+            "latitude": 36.714347,
+            "longitude": -81.92766
+        }
+    },
+    {
+        "centerId": "2194",
+        "type": "S",
+        "address": "5885 KINGSTOWNE",
+        "city": "BLVDALEXANDRIA",
+        "state": "Virginia",
+        "phoneNumber": "(703) 924-8800",
+        "location": {
+            "latitude": 38.769351,
+            "longitude": -77.136118
+        }
+    },
+    {
+        "centerId": "2258",
+        "type": "S",
+        "address": "7910 RICHMOND",
+        "city": "HWYALEXANDRIA",
+        "state": "Virginia",
+        "phoneNumber": "(703) 799-8815",
+        "location": {
+            "latitude": 38.74351,
+            "longitude": -77.087118
+        }
+    },
+    {
+        "centerId": "5753",
+        "type": "S",
+        "address": "6303 RICHMOND",
+        "city": "HWYALEXANDRIA",
+        "state": "Virginia",
+        "phoneNumber": "(703) 253-9901",
+        "location": {
+            "latitude": 38.780236,
+            "longitude": -77.076863
+        }
+    },
+    {
+        "centerId": "3768",
+        "type": "S",
+        "address": "125 CLARION",
+        "city": "RDALTAVISTA",
+        "state": "Virginia",
+        "phoneNumber": "(434) 309-2245",
+        "location": {
+            "latitude": 37.143359,
+            "longitude": -79.269969
+        }
+    },
+    {
+        "centerId": "4636",
+        "type": "S",
+        "address": "505 OAKVILLE",
+        "city": "RDAPPOMATTOX",
+        "state": "Virginia",
+        "phoneNumber": "(434) 352-6066",
+        "location": {
+            "latitude": 37.365921,
+            "longitude": -78.840701
+        }
+    },
+    {
+        "centerId": "2795",
+        "type": "S",
+        "address": "145 HILL CARTER",
+        "city": "PKWYASHLAND",
+        "state": "Virginia",
+        "phoneNumber": "(804) 798-2511",
+        "location": {
+            "latitude": 38.01317,
+            "longitude": -81.20344
+        }
+    },
+    {
+        "centerId": "3880",
+        "type": "S",
+        "address": "9714 SLIDING HILL",
+        "city": "RDASHLAND",
+        "state": "Virginia",
+        "phoneNumber": "(804) 537-3003",
+        "location": {
+            "latitude": 37.693152,
+            "longitude": -77.43951
+        }
+    },
+    {
+        "centerId": "1399",
+        "type": "S",
+        "address": "1126 E LYNCHBURG SALEM",
+        "city": "TPKEBEDFORD",
+        "state": "Virginia",
+        "phoneNumber": "(540) 586-6176",
+        "location": {
+            "latitude": 37.326065,
+            "longitude": -79.497321
+        }
+    },
+    {
+        "centerId": "2645",
+        "type": "S",
+        "address": "1451 S MAIN",
+        "city": "STBLACKSTONE",
+        "state": "Virginia",
+        "phoneNumber": "(434) 292-5898",
+        "location": {
+            "latitude": 37.060898,
+            "longitude": -78.004393
+        }
+    },
+    {
+        "centerId": "2289",
+        "type": "S",
+        "address": "210 NORTHSIDE",
+        "city": "DRBENNINGTON",
+        "state": "Vermont",
+        "phoneNumber": "(802) 447-1614",
+        "location": {
+            "latitude": 42.898803,
+            "longitude": -73.20969
+        }
+    },
+    {
+        "centerId": "2682",
+        "type": "S",
+        "address": "282 BERLIN MALL",
+        "city": "RDBERLIN",
+        "state": "Vermont",
+        "phoneNumber": "(802) 229-7792",
+        "location": {
+            "latitude": 44.216939,
+            "longitude": -72.565024
+        }
+    },
+    {
+        "centerId": "4156",
+        "type": "S",
+        "address": "115 SEYMOUR",
+        "city": "DRIVEDERBY",
+        "state": "Vermont",
+        "phoneNumber": "(802) 624-8012",
+        "location": {
+            "latitude": 44.950484,
+            "longitude": -72.171959
+        }
+    },
+    {
+        "centerId": "2530",
+        "type": "S",
+        "address": "90 SHOPPING PLAZA",
+        "city": "RDRUTLAND",
+        "state": "Vermont",
+        "phoneNumber": "(802) 773-0200",
+        "location": {
+            "latitude": 43.605472,
+            "longitude": -72.980506
+        }
+    },
+    {
+        "centerId": "2332",
+        "type": "S",
+        "address": "700 TUCKERS WAYST.",
+        "city": "ALBANS",
+        "state": "Vermont",
+        "phoneNumber": "(802) 528-4110",
+        "location": {
+            "latitude": -37.838232,
+            "longitude": 145.198967
+        }
+    },
+    {
+        "centerId": "2224",
+        "type": "S",
+        "address": "863 HARVEST",
+        "city": "LNWILLISTON",
+        "state": "Vermont",
+        "phoneNumber": "(802) 878-5233",
+        "location": {
+            "latitude": 44.441644,
+            "longitude": -73.122148
+        }
+    },
+    {
+        "centerId": "2037",
+        "type": "S",
+        "address": "909 E WISHKAH",
+        "city": "STABERDEEN",
+        "state": "Washington",
+        "phoneNumber": "(360) 532-7595",
+        "location": {
+            "latitude": 38.82652,
+            "longitude": -77.01712
+        }
+    },
+    {
+        "centerId": "3757",
+        "type": "S",
+        "address": "4010 172ND ST",
+        "city": "NEARLINGTON",
+        "state": "Washington",
+        "phoneNumber": "(360) 386-4608",
+        "location": {
+            "latitude": 38.82652,
+            "longitude": -77.01712
+        }
+    },
+    {
+        "centerId": "2385",
+        "type": "S",
+        "address": "762 OUTLET COLLECTION",
+        "city": "YAUBURNWA",
+        "state": "Washington",
+        "phoneNumber": "(253) 735-1855",
+        "location": {
+            "latitude": 38.82652,
+            "longitude": -77.01712
+        }
+    },
+    {
+        "centerId": "5929",
+        "type": "S",
+        "address": "1201 SW 13TH AVENUEBATTLE",
+        "city": "GROUND",
+        "state": "Washington",
+        "phoneNumber": "(360) 723-9004",
+        "location": {
+            "latitude": 38.82652,
+            "longitude": -77.01712
+        }
+    },
+    {
+        "centerId": "3098",
+        "type": "S",
+        "address": "15063 MAIN",
+        "city": "STBELLEVUE",
+        "state": "Washington",
+        "phoneNumber": "(425) 643-9054",
+        "location": {
+            "latitude": 38.62772,
+            "longitude": -77.320227
+        }
+    },
+    {
+        "centerId": "2450",
+        "type": "S",
+        "address": "4420 MERIDIAN",
+        "city": "STBELLINGHAM",
+        "state": "Washington",
+        "phoneNumber": "(360) 647-1400",
+        "location": {
+            "latitude": 38.82652,
+            "longitude": -77.01712
+        }
+    },
+    {
+        "centerId": "5041",
+        "type": "S",
+        "address": "19205 STATE ROUTE 410 EBONNEY",
+        "city": "LAKE",
+        "state": "Washington",
+        "phoneNumber": "(253) 826-9144",
+        "location": {
+            "latitude": 47.715625,
+            "longitude": -98.71843
+        }
+    },
+    {
+        "centerId": "2317",
+        "type": "S",
+        "address": "6797 STATE HIGHY 303",
+        "city": "NEBREMERTONWA",
+        "state": "Washington",
+        "phoneNumber": "(360) 698-2889",
+        "location": {
+            "latitude": 38.728143,
+            "longitude": -77.178051
+        }
+    },
+    {
+        "centerId": "2249",
+        "type": "S",
+        "address": "1601 NW LOUISIANA",
+        "city": "AVECHEHALIS",
+        "state": "Washington",
+        "phoneNumber": "(360) 748-1240",
+        "location": {
+            "latitude": 38.82652,
+            "longitude": -77.01712
+        }
+    },
+    {
+        "centerId": "3754",
+        "type": "S",
+        "address": "108 APPLE BLOSSOM",
+        "city": "DRCHELAN",
+        "state": "Washington",
+        "phoneNumber": "(509) 682-4291",
+        "location": {
+            "latitude": 38.82652,
+            "longitude": -77.01712
+        }
+    },
+    {
+        "centerId": "3268",
+        "type": "S",
+        "address": "200 E STATE HIGHWAY",
+        "city": "64ANTIGO",
+        "state": "Wisconsin",
+        "phoneNumber": "(715) 627-1382",
+        "location": {
+            "latitude": 43.631108,
+            "longitude": -94.918104
+        }
+    },
+    {
+        "centerId": "1982",
+        "type": "S",
+        "address": "955 MUTUAL",
+        "city": "WAYAPPLETON",
+        "state": "Wisconsin",
+        "phoneNumber": "(920) 954-6300",
+        "location": {
+            "latitude": 44.269112,
+            "longitude": -88.479825
+        }
+    },
+    {
+        "centerId": "2958",
+        "type": "S",
+        "address": "3701 E CALUMET",
+        "city": "STAPPLETON",
+        "state": "Wisconsin",
+        "phoneNumber": "(920) 996-0573",
+        "location": {
+            "latitude": 44.241452,
+            "longitude": -88.351728
+        }
+    },
+    {
+        "centerId": "1672",
+        "type": "S",
+        "address": "2500 LAKE SHORE DR",
+        "city": "EASHLAND",
+        "state": "Wisconsin",
+        "phoneNumber": "(715) 682-9699",
+        "location": {
+            "latitude": 46.603516,
+            "longitude": -90.851277
+        }
+    },
+    {
+        "centerId": "1012",
+        "type": "S",
+        "address": "120 FRANCES LNBEAVER",
+        "city": "DAM",
+        "state": "Wisconsin",
+        "phoneNumber": "(920) 887-8900",
+        "location": {
+            "latitude": 43.631108,
+            "longitude": -94.918104
+        }
+    },
+    {
+        "centerId": "2532",
+        "type": "S",
+        "address": "2785 MILWAUKEE",
+        "city": "RDBELOIT",
+        "state": "Wisconsin",
+        "phoneNumber": "(608) 362-0057",
+        "location": {
+            "latitude": 42.526387,
+            "longitude": -88.986188
+        }
+    },
+    {
+        "centerId": "1727",
+        "type": "S",
+        "address": "861 COUNTY ROAD",
+        "city": "FBERLIN",
+        "state": "Wisconsin",
+        "phoneNumber": "(920) 361-1600",
+        "location": {
+            "latitude": 43.921185,
+            "longitude": -88.544137
+        }
+    },
+    {
+        "centerId": "6394",
+        "type": "S",
+        "address": "6300 W BROWN  RDBROWN DEER",
+        "city": "DEER",
+        "state": "Wisconsin",
+        "phoneNumber": "(414) 410-2548",
+        "location": {
+            "latitude": 43.631108,
+            "longitude": -94.918104
+        }
+    },
+    {
+        "centerId": "5296",
+        "type": "S",
+        "address": "25 NICHOLS",
+        "city": "DRBARBOURSVILLE",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 733-0789",
+        "location": {
+            "latitude": 39.413764,
+            "longitude": -80.173546
+        }
+    },
+    {
+        "centerId": "1351",
+        "type": "S",
+        "address": "1330 N EISENHOWER",
+        "city": "DRBECKLEY",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 255-7800",
+        "location": {
+            "latitude": 37.805492,
+            "longitude": -81.176898
+        }
+    },
+    {
+        "centerId": "2809",
+        "type": "S",
+        "address": "100 BUCKHANNON",
+        "city": "CROSSROADSBUCKHANNON",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 472-2589",
+        "location": {
+            "latitude": 38.998342,
+            "longitude": -80.23573
+        }
+    },
+    {
+        "centerId": "2566",
+        "type": "S",
+        "address": "96 PATRICK HENRY WAYCHARLES",
+        "city": "TOWN",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 728-2720",
+        "location": {
+            "latitude": 37.27634,
+            "longitude": -79.088345
+        }
+    },
+    {
+        "centerId": "1544",
+        "type": "S",
+        "address": "550 EMILY",
+        "city": "DRCLARKSBURG",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 622-1954",
+        "location": {
+            "latitude": 39.263396,
+            "longitude": -80.286179
+        }
+    },
+    {
+        "centerId": "2576",
+        "type": "S",
+        "address": "100 NITRO MARKET PLCROSS",
+        "city": "LANES",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 769-0100",
+        "location": {
+            "latitude": 38.411339,
+            "longitude": -81.807582
+        }
+    },
+    {
+        "centerId": "1522",
+        "type": "S",
+        "address": "40 JETT",
+        "city": "LNELKINS",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 636-2138",
+        "location": {
+            "latitude": 38.89254,
+            "longitude": -79.843824
+        }
+    },
+    {
+        "centerId": "1714",
+        "type": "S",
+        "address": "32 TYGART MALL",
+        "city": "LOOPFAIRMONT",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 366-0444",
+        "location": {
+            "latitude": 39.424874,
+            "longitude": -80.19093
+        }
+    },
+    {
+        "centerId": "1360",
+        "type": "S",
+        "address": "204 TOWN CENTER",
+        "city": "RDFAYETTEVILLE",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 574-1086",
+        "location": {
+            "latitude": 38.034481,
+            "longitude": -81.119949
+        }
+    },
+    {
+        "centerId": "2833",
+        "type": "S",
+        "address": "1 WALMART",
+        "city": "LNGRAFTON",
+        "state": "West Virginia",
+        "phoneNumber": "(304) 265-6294",
+        "location": {
+            "latitude": 39.929619,
+            "longitude": -80.749716
+        }
+    },
+    {
+        "centerId": "1617",
+        "type": "S",
+        "address": "4400 E 2ND",
+        "city": "STCASPER",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 237-0991",
+        "location": {
+            "latitude": 41.189605,
+            "longitude": -106.135799
+        }
+    },
+    {
+        "centerId": "3778",
+        "type": "S",
+        "address": "4255 CY",
+        "city": "AVECASPER",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 232-9593",
+        "location": {
+            "latitude": 42.817171,
+            "longitude": -106.37512
+        }
+    },
+    {
+        "centerId": "1315",
+        "type": "S",
+        "address": "2032 DELL RANGE",
+        "city": "BLVDCHEYENNE",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 632-4330",
+        "location": {
+            "latitude": 41.189605,
+            "longitude": -106.135799
+        }
+    },
+    {
+        "centerId": "4653",
+        "type": "S",
+        "address": "NEC OF COLLEGE &",
+        "city": "I-8CHEYENNE",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 823-6810",
+        "location": {
+            "latitude": 14.266894,
+            "longitude": 74.435251
+        }
+    },
+    {
+        "centerId": "1778",
+        "type": "S",
+        "address": "321 YELLOWSTONE",
+        "city": "AVECODY",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 527-4673",
+        "location": {
+            "latitude": 44.51802,
+            "longitude": -109.089178
+        }
+    },
+    {
+        "centerId": "1456",
+        "type": "S",
+        "address": "125 N 2ND",
+        "city": "STEVANSTON",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 789-0010",
+        "location": {
+            "latitude": 41.189605,
+            "longitude": -106.135799
+        }
+    },
+    {
+        "centerId": "1485",
+        "type": "S",
+        "address": "2300 S DOUGLAS",
+        "city": "HGILLETTEWY",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 686-4060",
+        "location": {
+            "latitude": 41.189605,
+            "longitude": -106.135799
+        }
+    },
+    {
+        "centerId": "1412",
+        "type": "S",
+        "address": "4308 E GRAND",
+        "city": "AVELARAMIE",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 745-6100",
+        "location": {
+            "latitude": 41.301823,
+            "longitude": -105.540159
+        }
+    },
+    {
+        "centerId": "4471",
+        "type": "S",
+        "address": "2390 E CEDAR",
+        "city": "STRAWLINS",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 417-3001",
+        "location": {
+            "latitude": 41.189605,
+            "longitude": -106.135799
+        }
+    },
+    {
+        "centerId": "1457",
+        "type": "S",
+        "address": "1733 N FEDERAL",
+        "city": "BLVDRIVERTON",
+        "state": "Wyoming",
+        "phoneNumber": "(307) 856-3261",
+        "location": {
+            "latitude": 41.189605,
+            "longitude": -106.135799
+        }
+    }
+]
