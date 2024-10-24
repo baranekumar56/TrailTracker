@@ -63,6 +63,7 @@ const register =  async (req, res, next) => {
 
   router.post('/login', async (req, res) => {
     const { name, password, centerId, token } = req.body;
+    console.log(name , password);
     try {
       const employee = await Employee.findOne({ name });
       if (!employee || employee.password !== password || employee.centerId !== centerId) {
