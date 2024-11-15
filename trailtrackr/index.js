@@ -20,18 +20,13 @@ app.use('/user', detailDriver);
 app.use('/depart',departments );
 app.use('/store', endpoints);
 app.use("/trips", trips);
-// app.post('/', (req, res) => {
-//   console.log(req.body);
-//   res.json({a:'Hello, world!'});
-// });
+
 
 app.get("/", (req, res, next) => {
   res.send("Hello world");
 })
 
-app.post("/", (req,res)=>{
-  res.json({gay:"Sithaarth"});
-})
+
 
 
 const PORT = 8000 ;
